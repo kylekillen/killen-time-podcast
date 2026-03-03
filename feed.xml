@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 04:19:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 05:05:54 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -41,11 +41,19 @@
     </item>
     <item>
       <title>Killen Time — March 2, 2026 #2</title>
-      <description>Government purging Anthropic products, ChatGPT uninstalls surge 295%, Locksy and Foster position analysis, conservative coalition vs prediction markets, xAI debt payoff.</description>
+      <description>Killen Time — March 2, 2026 #2</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-02/killen-time-2026-03-02-02.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-02/killen-time-2026-03-02-02.mp3" length="8988828" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 04:19:09 +0000</pubDate>
-      <itunes:duration>9:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-02 #4</title>
+      <description>Pentagon vs Anthropic: Dean Ball, Zvi, and Scott Alexander dissect the supply chain risk designation. Iran strikes and the Khamenei prediction market controversy. Congressional backlash and conservative coalition forming against prediction markets. Texas Senate primary trading angles. Noah Smith on why superintelligence is already here today.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-04/killen-time-2026-03-02-04.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-04/killen-time-2026-03-02-04.mp3" length="20854806" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Mar 2026 05:05:51 +0000</pubDate>
+      <itunes:duration>21:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
