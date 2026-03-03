@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 16:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 19:23:28 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -65,12 +65,20 @@
     </item>
     <item>
       <title>Killen Time — 2026-03-03 #2</title>
-      <description>Dean Ball's 'Clawed' essay on Anthropic-DoW and republican decay. Scott Alexander's Mantic Monday prediction market data. First midterm primaries tomorrow in TX/NC/AR. Iran regime fall markets at 47%. March Madness arrives.</description>
+      <description>Killen Time — 2026-03-03 #2</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-02/killen-time-2026-03-03-02.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-02/killen-time-2026-03-03-02.mp3" length="16260347" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 16:46:38 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-02/artwork-2026-03-03.jpg"/>
-      <itunes:duration>15:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-03 #3</title>
+      <description>Killen Time — 2026-03-03 #3</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-03/killen-time-2026-03-03-03.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-03/killen-time-2026-03-03-03.mp3" length="19929750" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Mar 2026 19:22:11 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-03/artwork-2026-03-03-03.jpg"/>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
