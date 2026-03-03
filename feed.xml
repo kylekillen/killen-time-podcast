@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 13:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 13:28:28 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -57,11 +57,11 @@
     </item>
     <item>
       <title>Killen Time — 2026-03-03 #1</title>
-      <description>Anthropic vs. the Pentagon supply chain risk designation, Iran prediction market chaos and half a billion in trading volume, Cooper Flagg vs. Kon Knipple in a historic ROY race, and Freddie deBoer on why Hollywood can't stop genuflecting at its own IP.</description>
+      <description>Iran conflict widens, Scott Alexander's legal deep-dive on OpenAI contract, Kalshi resolution saga, DraftKings enters prediction markets, Freddie deBoer on franchise reverence</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-01/killen-time-2026-03-03-01.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-01/killen-time-2026-03-03-01.mp3" length="33230742" type="audio/mpeg"/>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-01/killen-time-2026-03-03-01.mp3" length="15123222" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 13:18:56 +0000</pubDate>
-      <itunes:duration>34:36</itunes:duration>
+      <itunes:duration>15:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
