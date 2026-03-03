@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 04:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:18:55 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -25,11 +25,19 @@
     </itunes:owner>
     <item>
       <title>Killen Time — March 2, 2026 #3</title>
-      <description>AWS data centers hit by drones, Cursor at $2B revenue, Paramount-Warner mega-merger, Charlotte Hornets historic rookie season, Giannis returns, and more.</description>
+      <description>Killen Time — March 2, 2026 #3</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-03/killen-time-2026-03-02-03.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-03/killen-time-2026-03-02-03.mp3" length="37858710" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 04:17:03 +0000</pubDate>
-      <itunes:duration>39:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — March 2, 2026 #1</title>
+      <description>Anthropic and the Pentagon, DOD supply chain risks, OpenAI DOD deal, AI industry meets government.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-01/killen-time-2026-03-02-01.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-01/killen-time-2026-03-02-01.mp3" length="11341590" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Mar 2026 04:18:52 +0000</pubDate>
+      <itunes:duration>11:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
