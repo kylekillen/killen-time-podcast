@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Killen Time Update</title>
+    <link>https://kylekillen.github.io/killen-time-podcast</link>
+    <description>Daily briefing on AI, prediction markets, NBA, and entertainment. Hosted by Alex and Nova. New episodes every 6 hours.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://kylekillen.github.io/killen-time-podcast/artwork.jpg</url>
+      <title>Killen Time Update</title>
+      <link>https://kylekillen.github.io/killen-time-podcast</link>
+    </image>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2026 04:17:57 +0000</lastBuildDate>
+    <itunes:author>Kyle Killen</itunes:author>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:image href="https://kylekillen.github.io/killen-time-podcast/artwork.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Kyle Killen</itunes:name>
+      <itunes:email>kyle.killen@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Killen Time — March 2, 2026 #3</title>
+      <description>AWS data centers hit by drones, Cursor at $2B revenue, Paramount-Warner mega-merger, Charlotte Hornets historic rookie season, Giannis returns, and more.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-03/killen-time-2026-03-02-03.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-03/killen-time-2026-03-02-03.mp3" length="37858710" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Mar 2026 04:17:03 +0000</pubDate>
+      <itunes:duration>39:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
