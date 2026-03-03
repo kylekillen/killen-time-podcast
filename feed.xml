@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 19:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 23:26:47 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -79,6 +79,16 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-03/killen-time-2026-03-03-03.mp3" length="19929750" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 19:22:11 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-03/artwork-2026-03-03-03.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-03 #4</title>
+      <description>Zvi breaks down the three Anthropic-Pentagon contracts and what the OpenAI deal actually says. Plus Claude Code voice mode, OpenAI building a GitHub alternative, CrowdStrike comeback earnings, Amazon killing Wondery, and the Jokic-Dort incident.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/killen-time-2026-03-03-04.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/killen-time-2026-03-03-04.mp3" length="11942828" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Mar 2026 23:26:42 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/artwork-2026-03-03-04.jpg"/>
+      <itunes:duration>10:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
