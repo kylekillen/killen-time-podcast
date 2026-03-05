@@ -3,7 +3,7 @@
   <channel>
     <title>Killen Time Update</title>
     <link>https://kylekillen.github.io/killen-time-podcast</link>
-    <description>Daily briefing on AI, prediction markets, NBA, and entertainment. Hosted by Alex and Nova. New episodes every 6 hours.</description>
+    <description>Daily briefing on AI, prediction markets, NBA, and entertainment. Hosted by Basil and Brooke. New episodes every 6 hours.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 12:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 16:50:04 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -177,6 +177,16 @@
       <pubDate>Thu, 05 Mar 2026 12:59:37 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/artwork-2026-03-05.jpg"/>
       <itunes:duration>1:21:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-05 #2</title>
+      <description>Block lays off AI team, Goodfire's Intentional Design, Canada forces OpenAI police notification, OpenAI prediction market insider trading allegations, 30B tariff refund program, ROAD Housing Act, Meta opens WhatsApp in EU, funding rounds, cybersecurity developments, culture and sports.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-02/killen-time-2026-03-05-02.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-02/killen-time-2026-03-05-02.mp3" length="82389270" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 16:49:56 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-02/artwork-2026-03-05-02.jpg"/>
+      <itunes:duration>1:25:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
