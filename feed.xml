@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 05:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 12:59:44 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -167,6 +167,16 @@
       <pubDate>Thu, 05 Mar 2026 05:05:29 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-06/artwork-2026-03-04-07.jpg"/>
       <itunes:duration>1:23:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-05 #1</title>
+      <description>China tech rout, AI economic paradox, Cal Newport Deep Work at 10, Nintendo NAND crisis, Epic Google gag clause, NATO AI pivot, NBA Hornets streak, institutional crypto convergence</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/killen-time-2026-03-05-01.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/killen-time-2026-03-05-01.mp3" length="79525716" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 12:59:37 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/artwork-2026-03-05.jpg"/>
+      <itunes:duration>1:21:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
