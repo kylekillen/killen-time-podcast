@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 05:05:39 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -157,6 +157,16 @@
       <pubDate>Thu, 05 Mar 2026 00:55:05 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-05/artwork-2026-03-04-06.jpg"/>
       <itunes:duration>1:23:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-04 #7</title>
+      <description>OpenAI hires IPO lawyers, ChatGPT Health fails at emergency triage, White House data center pledge has no teeth, Gerry Cardinale breaks down the WarnerMount deal from inside, Elon Musk takes the stand, Europol dismantles Tycoon2FA, and an AI agent publishes a hit piece on a developer.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-06/killen-time-2026-03-04-07.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-06/killen-time-2026-03-04-07.mp3" length="81088165" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 05:05:29 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-06/artwork-2026-03-04-07.jpg"/>
+      <itunes:duration>1:23:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
