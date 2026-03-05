@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 16:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 20:47:10 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -187,6 +187,16 @@
       <pubDate>Thu, 05 Mar 2026 16:49:56 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-02/artwork-2026-03-05-02.jpg"/>
       <itunes:duration>1:25:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-05 #3</title>
+      <description>GPT-5.4 launches with computer use. Cursor Automations turns IDEs into agent platforms. Wikipedia compromised. Clinejection attack hits 4K developers. Paul Graham on The Brand Age. NBA tanking crisis: bottom 8 teams 2-52 vs real competition.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/killen-time-2026-03-05-03.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/killen-time-2026-03-05-03.mp3" length="85140062" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 20:47:02 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/artwork-2026-03-05-03.jpg"/>
+      <itunes:duration>1:28:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
