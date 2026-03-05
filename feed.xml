@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:55:12 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -147,6 +147,16 @@
       <pubDate>Wed, 04 Mar 2026 20:40:24 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-04/artwork-2026-03-04-04.jpg"/>
       <itunes:duration>1:00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-04 #6</title>
+      <description>Dario Amodei leaked memo calls OpenAI deal safety theater. OpenAI explores ads with The Trade Desk. Broadcom AI revenue doubles. NVIDIA chip caps for China. Zvi on why Gemini 3.1 Pro leads benchmarks but nobody cares. BMW deploys humanoid robots. First nuclear reactor approval in a decade. Plus commodity traders, AI sentience, Scriptnotes on free work, and NBA.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-05/killen-time-2026-03-04-06.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-05/killen-time-2026-03-04-06.mp3" length="81168042" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 00:55:05 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-05/artwork-2026-03-04-06.jpg"/>
+      <itunes:duration>1:23:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
