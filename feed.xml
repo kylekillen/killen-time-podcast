@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 00:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 04:35:24 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -207,6 +207,16 @@
       <pubDate>Fri, 06 Mar 2026 00:44:41 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-04/artwork-2026-03-05-04.jpg"/>
       <itunes:duration>1:26:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-05 #5</title>
+      <description>OpenAI DOD Azure testing bombshell, Anthropic court challenge, AI revenue race, OpenClaw global phenomenon, F1 new era, NFL free agency erupts</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-05/killen-time-2026-03-05-05.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-05/killen-time-2026-03-05-05.mp3" length="79665660" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Mar 2026 04:35:16 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-05/artwork-2026-03-05-05.jpg"/>
+      <itunes:duration>1:21:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
