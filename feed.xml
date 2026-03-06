@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 04:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 12:49:30 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -217,6 +217,16 @@
       <pubDate>Fri, 06 Mar 2026 04:35:16 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-05/artwork-2026-03-05-05.jpg"/>
       <itunes:duration>1:21:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-06 #1</title>
+      <description>Oil vol at 2020 extremes, Qatar LNG offline, late-cycle macro signals. Gallego on Iran: no evidence, no case, no end goal. Nobel laureate Mokyr on culture driving progress and immigration as unforced error. LeBron passes Kareem for most FG ever. Wemby destroys Pistons with 38/5. West playoff race heats up. 2026 draft class breakdown. Rachel Sennott accidentally sold HBO a show. F1 opens with Mercedes ominously fast.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/killen-time-2026-03-06.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/killen-time-2026-03-06.mp3" length="63664145" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Mar 2026 12:49:21 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/artwork-2026-03-06.jpg"/>
+      <itunes:duration>1:06:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
