@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 12:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 16:44:57 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -227,6 +227,16 @@
       <pubDate>Fri, 06 Mar 2026 12:49:21 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/artwork-2026-03-06.jpg"/>
       <itunes:duration>1:06:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-06 #2</title>
+      <description>Jobs report shock (-92K), SoftBank's 0B AI loan, Mozilla Claude Firefox bugs, GPT-5.4 benchmarks, SEIU ballot extortion, Freddie deBoer on incels, South Korea fertility crisis, global warming acceleration, entertainment roundup</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-02/killen-time-2026-03-06-02.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-02/killen-time-2026-03-06-02.mp3" length="71120218" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Mar 2026 16:44:47 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-02/artwork-2026-03-06-02.jpg"/>
+      <itunes:duration>1:13:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
