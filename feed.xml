@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 20:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 00:44:51 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -197,6 +197,16 @@
       <pubDate>Thu, 05 Mar 2026 20:47:02 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/artwork-2026-03-05-03.jpg"/>
       <itunes:duration>1:28:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-05 #4</title>
+      <description>Anthropic consumer surge, AI labor market early warning, CoT safety research, 2028 GOP primary draft, DHS regime change, Proton Mail FBI, and more</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-04/killen-time-2026-03-05-04.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-04/killen-time-2026-03-05-04.mp3" length="84037803" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Mar 2026 00:44:41 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-04/artwork-2026-03-05-04.jpg"/>
+      <itunes:duration>1:26:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
