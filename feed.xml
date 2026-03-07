@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 16:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 01:24:42 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -237,6 +237,16 @@
       <pubDate>Fri, 06 Mar 2026 16:44:47 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-02/artwork-2026-03-06-02.jpg"/>
       <itunes:duration>1:13:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-06 #3</title>
+      <description>Evening edition: GPT-5.4 community testing reactions, Anthropic-Pentagon intellectual debate, Kalshi and Polymarket 0B valuations, Doomberg Strait of Hormuz deep dive, a16z SaaSpocalypse with Cannon-Brooks, Block mini-AGI pivot, Jayson Tatum season debut analysis from Real Ones, Ada Palmer on ancient knowledge loss, and more.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-03/killen-time-2026-03-06-03.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-03/killen-time-2026-03-06-03.mp3" length="69890628" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Mar 2026 01:24:33 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-03/artwork-2026-03-06-03.jpg"/>
+      <itunes:duration>1:11:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
