@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 01:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 13:26:15 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -247,6 +247,16 @@
       <pubDate>Sat, 07 Mar 2026 01:24:33 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-03/artwork-2026-03-06-03.jpg"/>
       <itunes:duration>1:11:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-07 #1</title>
+      <description>F1 Melbourne qualifying, Tatum returns, Wemby comeback, Hornets historic lineup, Blodget on OpenAI, brain upload, leisure economics, prediction market rivalry</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-07-01/killen-time-2026-03-07-01.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-07-01/killen-time-2026-03-07-01.mp3" length="70927920" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Mar 2026 13:26:03 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-07-01/artwork-2026-03-07.jpg"/>
+      <itunes:duration>1:12:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
