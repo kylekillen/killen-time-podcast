@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 13:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 12:07:11 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -257,6 +257,16 @@
       <pubDate>Sat, 07 Mar 2026 13:26:03 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-07-01/artwork-2026-03-07.jpg"/>
       <itunes:duration>1:12:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-08 #1</title>
+      <description>F1 2026 debuts with drama and safety concerns at the Australian GP. GPT-5.4 Pro launched without safety evaluations. DOGE used ChatGPT to cut 00M+ in humanities grants. Emil Michael's Uber playbook shapes Pentagon AI strategy. SNL's Gosling and Padilla break character brilliantly. Tarantino heads to London theater. Wembanyama leads 25-point Spurs comeback. Army auctions retention bonuses. Fruit fly brain uploaded to digital environment. Apple pulls 512GB Mac Studio amid AI-driven RAM shortage.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-08-01/killen-time-2026-03-08.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-08-01/killen-time-2026-03-08.mp3" length="69610518" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 12:07:00 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-08-01/artwork-2026-03-08.jpg"/>
+      <itunes:duration>1:12:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
