@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 12:07:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 12:16:56 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -267,6 +267,15 @@
       <pubDate>Sun, 08 Mar 2026 12:07:00 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-08-01/artwork-2026-03-08.jpg"/>
       <itunes:duration>1:12:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-09 #1</title>
+      <description>Gas prices going vertical, Iran's new supreme leader, Kalshi goes international, AI homeschooling, Huberman on peptides, Tatum's stunning return, F1 2026 debuts</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-09-01/killen-time-2026-03-09.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-09-01/killen-time-2026-03-09.mp3" length="77269398" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 12:16:45 +0000</pubDate>
+      <itunes:duration>1:20:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
