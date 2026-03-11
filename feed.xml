@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 12:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:39:33 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -285,6 +285,15 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-10-01/killen-time-2026-03-10.mp3" length="77983254" type="audio/mpeg"/>
       <pubDate>Tue, 10 Mar 2026 12:19:48 +0000</pubDate>
       <itunes:duration>1:21:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-11 #1</title>
+      <description>Bam Adebayo scores 83 points. Claude Code Review sparks 5/review debate. Jon Turek finds cheap convexity on Polymarket. Oscar predictions for Sunday. Noah Smith asks if we're in the foothills of WW3.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-11-01/killen-time-2026-03-11.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-11-01/killen-time-2026-03-11.mp3" length="75006870" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Mar 2026 12:39:22 +0000</pubDate>
+      <itunes:duration>1:18:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
