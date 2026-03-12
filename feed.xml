@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 12:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 15:10:19 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -294,6 +294,16 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-11-01/killen-time-2026-03-11.mp3" length="75006870" type="audio/mpeg"/>
       <pubDate>Wed, 11 Mar 2026 12:39:22 +0000</pubDate>
       <itunes:duration>1:18:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-12 #1</title>
+      <description>AI agents reshape work (Mollick), GPT-5.4 reviewed (Zvi), Iran/MAGA polling (Silver), prediction market legal battles, education myths (deBoer), biosecurity wake-up call, Karp at a16z, VF Oscar party overhaul, Kawhi drops 45</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/killen-time-2026-03-12-01.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/killen-time-2026-03-12-01.mp3" length="80888360" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Mar 2026 15:10:06 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/artwork-2026-03-12.jpg"/>
+      <itunes:duration>1:22:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
