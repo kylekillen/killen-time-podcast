@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 15:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:17:24 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -304,6 +304,16 @@
       <pubDate>Thu, 12 Mar 2026 15:10:06 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/artwork-2026-03-12.jpg"/>
       <itunes:duration>1:22:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-13</title>
+      <description>Friday the 13th edition. 2028 presidential race tightens on prediction markets. CFTC drops new guidance on sports event contracts. Pentagon AI czar Emil Michael reveals Anthropic contract concerns. Forward Guidance and Odd Lots on the Iran oil shock. Yglesias on the UK triple lock. Noah Smith donates 10K to save San Francisco. SGA passes Wilt. Oscars Sunday. F1 Shanghai.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-13-01/killen-time-2026-03-13.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-13-01/killen-time-2026-03-13.mp3" length="76006806" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Mar 2026 12:17:12 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-13-01/artwork-2026-03-13.jpg"/>
+      <itunes:duration>1:19:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
