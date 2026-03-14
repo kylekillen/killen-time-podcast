@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 12:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 12:02:25 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -314,6 +314,16 @@
       <pubDate>Fri, 13 Mar 2026 12:17:12 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-13-01/artwork-2026-03-13.jpg"/>
       <itunes:duration>1:19:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-14 #1</title>
+      <description>Iran war deep dive with Ezra Klein/Ali Vaiz. xAI imploding as cofounders flee. Meta delays Avocado model, plans 20% layoffs. Cursor seeks $50B valuation. Polymarket savage Oscar picks. Jalen Brown ejection debate. NBA standings chaos — Lakers are the 3-seed. Antonelli youngest F1 pole sitter. Bill Gurley on career regret.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-14-01/killen-time-2026-03-14.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-14-01/killen-time-2026-03-14.mp3" length="66119383" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Mar 2026 12:02:12 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-14-01/artwork-2026-03-14.jpg"/>
+      <itunes:duration>1:07:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
