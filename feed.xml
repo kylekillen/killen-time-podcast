@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 12:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 11:59:17 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -324,6 +324,16 @@
       <pubDate>Sat, 14 Mar 2026 12:02:12 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-14-01/artwork-2026-03-14.jpg"/>
       <itunes:duration>1:07:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-15</title>
+      <description>Antonelli wins first F1 GP, Mustafa Suleyman on AI personhood, METR benchmarks saturated, Freddie deBoer on Oscars and Black cinema, Lakers-Nuggets OT thriller, Brian McCarthy on bond market mispricing, Noah Smith on AI uncertainty fog, gaming industry as AI casualty, Agent Madness bracket, SNL with Harry Styles</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/killen-time-2026-03-15.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/killen-time-2026-03-15.mp3" length="66848618" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 11:59:05 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/artwork-2026-03-15.jpg"/>
+      <itunes:duration>1:08:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
