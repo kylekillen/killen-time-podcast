@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 12:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 12:11:30 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -354,6 +354,16 @@
       <pubDate>Tue, 17 Mar 2026 12:19:21 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-17-01/artwork-2026-03-17.jpg"/>
       <itunes:duration>1:12:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-18</title>
+      <description>Arizona files criminal charges against Kalshi. The BETS OFF Act drops in Congress. Bob Elliott explains why central banks never ease into oil shocks. Nate Silver on the game theory of the TACO trade. Elon Musk says we are in the hard takeoff. GPT 5.4 solving research-level math. The FDA rug-pulls Moderna and they shelve their infectious disease pipeline. Freddie deBoer coins overlearning. UK politics in structural meltdown. Wemby is the best player Bill Simmons has seen this year. Plus worst contracts of 2026.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-18-01/killen-time-2026-03-18.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-18-01/killen-time-2026-03-18.mp3" length="81713344" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Mar 2026 12:11:15 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-18-01/artwork-2026-03-18.jpg"/>
+      <itunes:duration>1:23:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
