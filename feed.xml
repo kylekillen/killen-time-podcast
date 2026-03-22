@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 12:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 12:05:46 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -374,6 +374,16 @@
       <pubDate>Fri, 20 Mar 2026 12:04:34 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-20-01/artwork-2026-03-20.jpg"/>
       <itunes:duration>1:11:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-22</title>
+      <description>Oil markets screaming beyond headline WTI (Oman crude at $170), Kalshi hit with Nevada TRO, NVIDIA GTC forecasts $1T revenue, Lakers win 9th straight as LeBron breaks games record, Project Hail Mary opens to $80M, White House AI framework is preemption with nothing, F1 2026 produces more racing but less driving.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-22-01/killen-time-2026-03-22.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-22-01/killen-time-2026-03-22.mp3" length="70235893" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 12:05:31 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-22-01/artwork-2026-03-22.jpg"/>
+      <itunes:duration>1:11:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
