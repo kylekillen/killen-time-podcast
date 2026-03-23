@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 12:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 12:06:13 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -384,6 +384,16 @@
       <pubDate>Sun, 22 Mar 2026 12:05:31 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-22-01/artwork-2026-03-22.jpg"/>
       <itunes:duration>1:11:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-23 #1</title>
+      <description>Prediction markets face political siege from AOC to Arizona criminal charges. Sam Harris on Iran with Coleman Hughes. Noah Smith asks Claude about AI and the limits of human understanding. Celtics struggle to reintegrate Tatum. Love Story on FX is the sleeper hit of the spring.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/killen-time-2026-03-23.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/killen-time-2026-03-23.mp3" length="70984731" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 12:05:58 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/artwork-2026-03-23.jpg"/>
+      <itunes:duration>1:12:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
