@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 12:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 12:09:01 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -394,6 +394,16 @@
       <pubDate>Mon, 23 Mar 2026 12:05:58 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/artwork-2026-03-23.jpg"/>
       <itunes:duration>1:12:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-24 #1</title>
+      <description>Iran oil crisis is the largest energy disruption ever recorded. Bipartisan bill targets prediction market sports contracts. David Shor warns of mass white-collar AI displacement. Freddie deBoer on NBA stat inflation. Noah Smith on the dangerous illusion of historical inevitability.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-24-01/killen-time-2026-03-24.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-24-01/killen-time-2026-03-24.mp3" length="69543606" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Mar 2026 12:08:45 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-24-01/artwork-2026-03-24.jpg"/>
+      <itunes:duration>1:11:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
