@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 12:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 12:20:22 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -414,6 +414,16 @@
       <pubDate>Wed, 25 Mar 2026 12:43:35 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-25-01/artwork-2026-03-25.jpg"/>
       <itunes:duration>1:13:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-26 #1</title>
+      <description>Iran war economics via Noah Smith and Nate Silver, social media Big Tobacco moment, AI worst sales pitch ever, prediction market legislation escalates in Congress, Wolves shock Rockets in epic OT collapse, Celtics-Thunder finals preview, Wemby 7 blocks in 27 minutes, why movies are getting longer, Honda engine vibration mystery at Suzuka</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-26-01/killen-time-2026-03-26.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-26-01/killen-time-2026-03-26.mp3" length="80297374" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Mar 2026 12:20:05 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-26-01/artwork-2026-03-26.jpg"/>
+      <itunes:duration>1:22:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
