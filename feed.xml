@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 12:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 21:12:50 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -434,6 +434,15 @@
       <pubDate>Fri, 27 Mar 2026 12:47:44 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-27-01/artwork-2026-03-27.jpg"/>
       <itunes:duration>1:24:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-28</title>
+      <description>Friday edition: AI, prediction markets, NBA, entertainment, and more.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-28-01/killen-time-2026-03-28.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-28-01/killen-time-2026-03-28.mp3" length="48906390" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Mar 2026 21:12:34 +0000</pubDate>
+      <itunes:duration>50:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
