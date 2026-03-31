@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 12:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:26:39 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -463,6 +463,15 @@
       <pubDate>Mon, 30 Mar 2026 12:12:13 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-30-01/artwork-2026-03-30.jpg"/>
       <itunes:duration>1:00:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-03-31</title>
+      <description>Prediction markets at war: Kalshi vs Polymarket as Congress closes in. AI research agents going recursive. SGA drops 47 on 19 shots in the MVP stretch run. Netflix hits $28/month. Scott Alexander demolishes telescopic altruism. Plus portable nuclear reactors, Embiid's defensive decline, and the NASA chief economist.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-31-01/killen-time-2026-03-31.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-31-01/killen-time-2026-03-31.mp3" length="43093782" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2026 14:26:19 +0000</pubDate>
+      <itunes:duration>44:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
