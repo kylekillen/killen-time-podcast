@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 14:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 12:10:37 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -472,6 +472,16 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-31-01/killen-time-2026-03-31.mp3" length="43093782" type="audio/mpeg"/>
       <pubDate>Tue, 31 Mar 2026 14:26:19 +0000</pubDate>
       <itunes:duration>44:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-01</title>
+      <description>Block fires 40% of its workforce to rebuild around AI squads. Ethan Mollick on why chatbot interfaces are the real bottleneck. Nathan Labenz on the nearness of the singularity. Trump signs voting executive order with immediate prediction market implications. Fed Governor Miran dissents for rate cuts and argues the oil shock is transitory. SGA foul-drawing mastery dissected ahead of playoffs. Mark Cuban regrets who he sold the Mavs to. Noah Smith on Japan twenty years later.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/killen-time-2026-04-01.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/killen-time-2026-04-01.mp3" length="63448475" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Apr 2026 12:10:16 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/artwork-2026-04-01.jpg"/>
+      <itunes:duration>1:04:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
