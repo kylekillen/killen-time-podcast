@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 12:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:54:16 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -482,6 +482,16 @@
       <pubDate>Wed, 01 Apr 2026 12:10:16 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/artwork-2026-04-01.jpg"/>
       <itunes:duration>1:04:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-02</title>
+      <description>Anthropic abandons hard safety commitments in RSP v3 — Zvi Mowshowitz dissects what it means for AI governance. World CEO Alex Blania makes the case for proof-of-human infrastructure on a16z. The AI economy accelerates with OpenAI at $852B, single-bit models, and a two-person company tracking $1.8B in revenue. Polymarket self-certifies elections and economic indicators with the CFTC while Kalshi promotes 30-leg parlays and files gambling trademarks.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/killen-time-2026-04-02.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/killen-time-2026-04-02.mp3" length="42033553" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Apr 2026 13:53:56 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/artwork-2026-04-02.jpg"/>
+      <itunes:duration>42:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
