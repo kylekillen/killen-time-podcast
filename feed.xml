@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:54:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 13:28:30 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -492,6 +492,15 @@
       <pubDate>Thu, 02 Apr 2026 13:53:56 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/artwork-2026-04-02.jpg"/>
       <itunes:duration>42:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-03</title>
+      <description>DOJ sues three states to protect prediction markets. ChatGPT co-creator leaves OpenAI for AI materials lab. SGA locks up MVP in definitive Bontemps poll. Iran thinks its winning the war and China may be the real beneficiary. Plus movies getting longer, investment banking exposed, and Freddie deBoer on Millennial confidence.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-01/killen-time-2026-04-03.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-01/killen-time-2026-04-03.mp3" length="22194476" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Apr 2026 13:28:09 +0000</pubDate>
+      <itunes:duration>23:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
