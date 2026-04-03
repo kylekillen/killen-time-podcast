@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 13:28:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 18:42:45 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -501,6 +501,16 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-01/killen-time-2026-04-03.mp3" length="22194476" type="audio/mpeg"/>
       <pubDate>Fri, 03 Apr 2026 13:28:09 +0000</pubDate>
       <itunes:duration>23:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-03</title>
+      <description>Andreessen on the 80-year overnight success of AI, Democrats split on whether AI is real, China semiconductor record revenues and DeepSeek V4 on Huawei silicon, 100% pharma tariffs, Meta making $16B from scam ads, NBA Rookie of the Year race, Amazon worldbuilding strategy, Tom Holland on pre-Christian values, and the Whispering Earring on AI agency.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-02/killen-time-2026-04-03.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-02/killen-time-2026-04-03.mp3" length="70173514" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Apr 2026 18:42:26 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-02/artwork-2026-04-03-02.jpg"/>
+      <itunes:duration>1:11:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
