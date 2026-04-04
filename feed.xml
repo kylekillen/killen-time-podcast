@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 18:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 12:19:06 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -511,6 +511,16 @@
       <pubDate>Fri, 03 Apr 2026 18:42:26 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-02/artwork-2026-04-03-02.jpg"/>
       <itunes:duration>1:11:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-04</title>
+      <description>Zuckerberg is coding again with Claude Code. A 23-year-old Linux vulnerability found by AI. Microsoft Copilot at 3% adoption. Prediction markets sign FIFA and LALIGA deals. Cooper Flagg drops 51 points. Gold overtakes US Treasuries as top reserve asset.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/killen-time-2026-04-04.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/killen-time-2026-04-04.mp3" length="66264439" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Apr 2026 12:18:45 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/artwork-2026-04-04.jpg"/>
+      <itunes:duration>1:07:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
