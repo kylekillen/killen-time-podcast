@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 12:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 12:19:02 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -531,6 +531,16 @@
       <pubDate>Sun, 05 Apr 2026 12:36:25 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-05-01/artwork-2026-04-05.jpg"/>
       <itunes:duration>1:18:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-06</title>
+      <description>Monday's deep dive: The New Yorker's blockbuster Sam Altman profile lands alongside WSJ docs showing OpenAI and Anthropic inference costs exceed 50% of revenue. Noah Smith's AI roundup challenges growth assumptions. France pulls gold from US vaults. Raimondo warns European industry is getting crushed. Steph Curry returns with 29 points, Wemby-Jokic deliver game of the year, and Cooper Flagg's 96-point weekend flips the ROY race. Plus immigration and assimilation with Coleman Hughes, Iran infrastructure threats and international law, and the gap between what institutions say and what they actually do.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-06-01/killen-time-2026-04-06.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-06-01/killen-time-2026-04-06.mp3" length="80144524" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Apr 2026 12:18:41 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-06-01/artwork-2026-04-06.jpg"/>
+      <itunes:duration>1:22:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
