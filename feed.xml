@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 21:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 14:53:01 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -561,6 +561,16 @@
       <pubDate>Thu, 09 Apr 2026 21:47:40 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-09-01/artwork-2026-04-09.jpg"/>
       <itunes:duration>1:03:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-10</title>
+      <description>Zvi Mowshowitz dissects the Mythos system card and finds alignment testing may be approaching its limits. White House sends all-staff email warning against insider trading on prediction markets after suspicious Polymarket ceasefire bets. TSMC beats estimates, CoreWeave signs Anthropic deal. Embiid out with appendicitis, Giannis trade saga deepens. Derek Thompson on the entry-level hiring crisis. Fareed Zakaria on the Iran conflict and American strategic power.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3" length="76078412" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 14:52:38 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/artwork-2026-04-10.jpg"/>
+      <itunes:duration>1:17:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
