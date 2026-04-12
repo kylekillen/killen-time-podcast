@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 11:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 12:31:50 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -581,6 +581,16 @@
       <pubDate>Sat, 11 Apr 2026 11:49:19 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-11-01/artwork-2026-04-11.jpg"/>
       <itunes:duration>1:08:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-12</title>
+      <description>Self-improving open-source AI from MiniMax, Claude Code dominating HumanX, the Jevons Paradox in AI compute, Nate Silver on synthetic polling dangers, SpaceX two-trillion-dollar IPO and capital competition, NBA playoff preview, Coachella and SNL highlights, and the structural gold thesis from Gavekal.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-12-01/killen-time-2026-04-12.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-12-01/killen-time-2026-04-12.mp3" length="63191482" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Apr 2026 12:31:23 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-12-01/artwork-2026-04-12.jpg"/>
+      <itunes:duration>1:04:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
