@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:47:16 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -601,6 +601,16 @@
       <pubDate>Mon, 13 Apr 2026 11:52:03 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-13-01/artwork-2026-04-13.jpg"/>
       <itunes:duration>1:13:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-04-14</title>
+      <description>Anthropic vs OpenAI on the Illinois AI liability shield, Narasimhan joins the Anthropic board ahead of a potential IPO, Treasury wants Mythos access, Zvi on Claude Mythos capabilities, Gouker maps the prediction market startup ecosystem, Polymarket audits its Builders Program, and Robin Hanson asks why we ban sports bets.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-14-01/killen-time-2026-04-14.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-14-01/killen-time-2026-04-14.mp3" length="59419557" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 16:46:52 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-14-01/artwork-2026-04-14.jpg"/>
+      <itunes:duration>1:00:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
