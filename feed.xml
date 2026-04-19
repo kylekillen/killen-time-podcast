@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 16:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:21:46 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -29,7 +29,6 @@
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-03/killen-time-2026-03-02-03.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-03/killen-time-2026-03-02-03.mp3" length="37858710" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 04:17:03 +0000</pubDate>
-      <itunes:duration>39:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -38,7 +37,6 @@
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-01/killen-time-2026-03-02-01.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-01/killen-time-2026-03-02-01.mp3" length="11341590" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 04:18:52 +0000</pubDate>
-      <itunes:duration>11:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -47,7 +45,6 @@
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-02/killen-time-2026-03-02-02.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-02/killen-time-2026-03-02-02.mp3" length="8988828" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 04:19:09 +0000</pubDate>
-      <itunes:duration>9:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -56,17 +53,15 @@
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-04/killen-time-2026-03-02-04.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-02-04/killen-time-2026-03-02-04.mp3" length="20854806" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 05:05:51 +0000</pubDate>
-      <itunes:duration>21:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-03 #1</title>
       <description>Killen Time — 2026-03-03 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-01/killen-time-2026-03-03.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-01/killen-time-2026-03-03.mp3" length="33230742" type="audio/mpeg"/>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-01/killen-time-2026-03-03.mp3" length="19828365" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 13:18:56 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-01/artwork-2026-03-03-05.jpg"/>
-      <itunes:duration>34:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -76,7 +71,6 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-02/killen-time-2026-03-03-02.mp3" length="16260347" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 16:46:38 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-02/artwork-2026-03-03.jpg"/>
-      <itunes:duration>15:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -86,7 +80,6 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-03/killen-time-2026-03-03-03.mp3" length="19929750" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 19:22:11 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-03/artwork-2026-03-03-03.jpg"/>
-      <itunes:duration>20:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -96,569 +89,511 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/killen-time-2026-03-03-04.mp3" length="16433324" type="audio/mpeg"/>
       <pubDate>Tue, 03 Mar 2026 23:26:42 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/artwork-2026-03-03-04.jpg"/>
-      <itunes:duration>15:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-03 #5</title>
-      <description>Late night edition: Lockheed follows Anthropic ban, Cursor hits $2B ARR, zero human companies, Japan as defense arsenal, Texas primaries, AI security trifecta</description>
+      <description>Killen Time — 2026-03-03 #5</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-05/killen-time-2026-03-03-05.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-05/killen-time-2026-03-03-05.mp3" length="19828365" type="audio/mpeg"/>
       <pubDate>Wed, 04 Mar 2026 13:22:40 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-05/artwork-2026-03-03-05.jpg"/>
-      <itunes:duration>20:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-04 #1</title>
-      <description>Killen Time Update for 2026-03-04, episode 1.</description>
+      <description>Killen Time — 2026-03-04 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-01/killen-time-2026-03-04.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-01/killen-time-2026-03-04.mp3" length="30238639" type="audio/mpeg"/>
       <pubDate>Wed, 04 Mar 2026 13:49:10 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-01/artwork-2026-03-04-05.jpg"/>
-      <itunes:duration>30:09</itunes:duration>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-01/artwork-2026-03-04.jpg"/>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-04 #2</title>
-      <description>GPT-5.4 incoming, MacBook Neo launch, Gemini suicide lawsuit, Texas primary prediction market scorecard, Paramount-Warner merger details, and fresh NBA analysis</description>
+      <description>Killen Time — 2026-03-04 #2</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-02/killen-time-2026-03-04-02.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-02/killen-time-2026-03-04-02.mp3" length="33018136" type="audio/mpeg"/>
       <pubDate>Wed, 04 Mar 2026 17:27:39 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-02/artwork-2026-03-04-02.jpg"/>
-      <itunes:duration>33:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-04 #3</title>
-      <description>The republic in hospice: Dean Ball and Zvi on the Anthropic-DOW crisis. Japan as Americas arsenal. Epic-Google settlement. Sicario on The Rewatchables.</description>
+      <description>Killen Time — 2026-03-04 #3</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-03/killen-time-2026-03-04-03.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-03/killen-time-2026-03-04-03.mp3" length="26440854" type="audio/mpeg"/>
       <pubDate>Wed, 04 Mar 2026 19:39:11 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-03/artwork-2026-03-04-03.jpg"/>
-      <itunes:duration>27:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-04 #4</title>
-      <description>Nvidia signals end of private AI mega-rounds, prediction markets grade the Texas primaries, CFTC Chairman Selig moves toward formal rulemaking, Nate Silver on partisanship vs ideology, CFIUS probes Tencent via Supercell, LA City Council streamlines film production, plus lobsters and the limits of neoliberalism.</description>
+      <description>Killen Time — 2026-03-04 #4</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-04/killen-time-2026-03-04-04.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-04/killen-time-2026-03-04-04.mp3" length="59409499" type="audio/mpeg"/>
       <pubDate>Wed, 04 Mar 2026 20:40:24 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-04/artwork-2026-03-04-04.jpg"/>
-      <itunes:duration>1:00:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-04 #6</title>
-      <description>Dario Amodei leaked memo calls OpenAI deal safety theater. OpenAI explores ads with The Trade Desk. Broadcom AI revenue doubles. NVIDIA chip caps for China. Zvi on why Gemini 3.1 Pro leads benchmarks but nobody cares. BMW deploys humanoid robots. First nuclear reactor approval in a decade. Plus commodity traders, AI sentience, Scriptnotes on free work, and NBA.</description>
+      <description>Killen Time — 2026-03-04 #6</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-05/killen-time-2026-03-04-06.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-05/killen-time-2026-03-04-06.mp3" length="81168042" type="audio/mpeg"/>
       <pubDate>Thu, 05 Mar 2026 00:55:05 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-05/artwork-2026-03-04-06.jpg"/>
-      <itunes:duration>1:23:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-04 #7</title>
-      <description>OpenAI hires IPO lawyers, ChatGPT Health fails at emergency triage, White House data center pledge has no teeth, Gerry Cardinale breaks down the WarnerMount deal from inside, Elon Musk takes the stand, Europol dismantles Tycoon2FA, and an AI agent publishes a hit piece on a developer.</description>
+      <description>Killen Time — 2026-03-04 #7</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-06/killen-time-2026-03-04-07.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-06/killen-time-2026-03-04-07.mp3" length="81088165" type="audio/mpeg"/>
       <pubDate>Thu, 05 Mar 2026 05:05:29 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-04-06/artwork-2026-03-04-07.jpg"/>
-      <itunes:duration>1:23:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-05 #1</title>
-      <description>China tech rout, AI economic paradox, Cal Newport Deep Work at 10, Nintendo NAND crisis, Epic Google gag clause, NATO AI pivot, NBA Hornets streak, institutional crypto convergence</description>
+      <description>Killen Time — 2026-03-05 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/killen-time-2026-03-05-01.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/killen-time-2026-03-05-01.mp3" length="79525716" type="audio/mpeg"/>
       <pubDate>Thu, 05 Mar 2026 12:59:37 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/artwork-2026-03-05.jpg"/>
-      <itunes:duration>1:21:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-05 #2</title>
-      <description>Block lays off AI team, Goodfire's Intentional Design, Canada forces OpenAI police notification, OpenAI prediction market insider trading allegations, 30B tariff refund program, ROAD Housing Act, Meta opens WhatsApp in EU, funding rounds, cybersecurity developments, culture and sports.</description>
+      <description>Killen Time — 2026-03-05 #2</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-02/killen-time-2026-03-05-02.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-02/killen-time-2026-03-05-02.mp3" length="82389270" type="audio/mpeg"/>
       <pubDate>Thu, 05 Mar 2026 16:49:56 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-02/artwork-2026-03-05-02.jpg"/>
-      <itunes:duration>1:25:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-05 #3</title>
-      <description>GPT-5.4 launches with computer use. Cursor Automations turns IDEs into agent platforms. Wikipedia compromised. Clinejection attack hits 4K developers. Paul Graham on The Brand Age. NBA tanking crisis: bottom 8 teams 2-52 vs real competition.</description>
+      <description>Killen Time — 2026-03-05 #3</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/killen-time-2026-03-05-03.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/killen-time-2026-03-05-03.mp3" length="85140062" type="audio/mpeg"/>
       <pubDate>Thu, 05 Mar 2026 20:47:02 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/artwork-2026-03-05-03.jpg"/>
-      <itunes:duration>1:28:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-05 #4</title>
-      <description>Anthropic consumer surge, AI labor market early warning, CoT safety research, 2028 GOP primary draft, DHS regime change, Proton Mail FBI, and more</description>
+      <description>Killen Time — 2026-03-05 #4</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-04/killen-time-2026-03-05-04.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-04/killen-time-2026-03-05-04.mp3" length="84037803" type="audio/mpeg"/>
       <pubDate>Fri, 06 Mar 2026 00:44:41 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-04/artwork-2026-03-05-04.jpg"/>
-      <itunes:duration>1:26:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-05 #5</title>
-      <description>OpenAI DOD Azure testing bombshell, Anthropic court challenge, AI revenue race, OpenClaw global phenomenon, F1 new era, NFL free agency erupts</description>
+      <description>Killen Time — 2026-03-05 #5</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-05/killen-time-2026-03-05-05.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-05/killen-time-2026-03-05-05.mp3" length="79665660" type="audio/mpeg"/>
       <pubDate>Fri, 06 Mar 2026 04:35:16 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-05/artwork-2026-03-05-05.jpg"/>
-      <itunes:duration>1:21:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-06 #1</title>
-      <description>Oil vol at 2020 extremes, Qatar LNG offline, late-cycle macro signals. Gallego on Iran: no evidence, no case, no end goal. Nobel laureate Mokyr on culture driving progress and immigration as unforced error. LeBron passes Kareem for most FG ever. Wemby destroys Pistons with 38/5. West playoff race heats up. 2026 draft class breakdown. Rachel Sennott accidentally sold HBO a show. F1 opens with Mercedes ominously fast.</description>
+      <description>Killen Time — 2026-03-06 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/killen-time-2026-03-06.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/killen-time-2026-03-06.mp3" length="63664145" type="audio/mpeg"/>
       <pubDate>Fri, 06 Mar 2026 12:49:21 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/artwork-2026-03-06.jpg"/>
-      <itunes:duration>1:06:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-06 #2</title>
-      <description>Jobs report shock (-92K), SoftBank's 0B AI loan, Mozilla Claude Firefox bugs, GPT-5.4 benchmarks, SEIU ballot extortion, Freddie deBoer on incels, South Korea fertility crisis, global warming acceleration, entertainment roundup</description>
+      <description>Killen Time — 2026-03-06 #2</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-02/killen-time-2026-03-06-02.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-02/killen-time-2026-03-06-02.mp3" length="71120218" type="audio/mpeg"/>
       <pubDate>Fri, 06 Mar 2026 16:44:47 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-02/artwork-2026-03-06-02.jpg"/>
-      <itunes:duration>1:13:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-06 #3</title>
-      <description>Evening edition: GPT-5.4 community testing reactions, Anthropic-Pentagon intellectual debate, Kalshi and Polymarket 0B valuations, Doomberg Strait of Hormuz deep dive, a16z SaaSpocalypse with Cannon-Brooks, Block mini-AGI pivot, Jayson Tatum season debut analysis from Real Ones, Ada Palmer on ancient knowledge loss, and more.</description>
+      <description>Killen Time — 2026-03-06 #3</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-03/killen-time-2026-03-06-03.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-03/killen-time-2026-03-06-03.mp3" length="69890628" type="audio/mpeg"/>
       <pubDate>Sat, 07 Mar 2026 01:24:33 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-03/artwork-2026-03-06-03.jpg"/>
-      <itunes:duration>1:11:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-07 #1</title>
-      <description>F1 Melbourne qualifying, Tatum returns, Wemby comeback, Hornets historic lineup, Blodget on OpenAI, brain upload, leisure economics, prediction market rivalry</description>
+      <description>Killen Time — 2026-03-07 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-07-01/killen-time-2026-03-07-01.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-07-01/killen-time-2026-03-07-01.mp3" length="70927920" type="audio/mpeg"/>
       <pubDate>Sat, 07 Mar 2026 13:26:03 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-07-01/artwork-2026-03-07.jpg"/>
-      <itunes:duration>1:12:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-08 #1</title>
-      <description>F1 2026 debuts with drama and safety concerns at the Australian GP. GPT-5.4 Pro launched without safety evaluations. DOGE used ChatGPT to cut 00M+ in humanities grants. Emil Michael's Uber playbook shapes Pentagon AI strategy. SNL's Gosling and Padilla break character brilliantly. Tarantino heads to London theater. Wembanyama leads 25-point Spurs comeback. Army auctions retention bonuses. Fruit fly brain uploaded to digital environment. Apple pulls 512GB Mac Studio amid AI-driven RAM shortage.</description>
+      <description>Killen Time — 2026-03-08 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-08-01/killen-time-2026-03-08.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-08-01/killen-time-2026-03-08.mp3" length="69610518" type="audio/mpeg"/>
       <pubDate>Sun, 08 Mar 2026 12:07:00 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-08-01/artwork-2026-03-08.jpg"/>
-      <itunes:duration>1:12:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-09 #1</title>
-      <description>Gas prices going vertical, Iran's new supreme leader, Kalshi goes international, AI homeschooling, Huberman on peptides, Tatum's stunning return, F1 2026 debuts</description>
+      <description>Killen Time — 2026-03-09 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-09-01/killen-time-2026-03-09.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-09-01/killen-time-2026-03-09.mp3" length="77269398" type="audio/mpeg"/>
       <pubDate>Mon, 09 Mar 2026 12:16:45 +0000</pubDate>
-      <itunes:duration>1:20:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-10 #1</title>
-      <description>Prediction markets boom (Novig $75M, Underdog acquires CFTC exchange, Moore-Carbajal bill), Iran war supply chain economics (Strait of Hormuz, fertilizer, chips), a16z Top 100 AI report (platform divergence), Zvi on Claude Code, Thunder-Nuggets game of the year (SGA ties Wilt), KOC NBA breakdown, Slow Boring on 2028 Dems, Netflix-Affleck AI strategy, Paramount-Warner merger implications</description>
+      <description>Killen Time — 2026-03-10 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-10-01/killen-time-2026-03-10.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-10-01/killen-time-2026-03-10.mp3" length="77983254" type="audio/mpeg"/>
       <pubDate>Tue, 10 Mar 2026 12:19:48 +0000</pubDate>
-      <itunes:duration>1:21:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-11 #1</title>
-      <description>Bam Adebayo scores 83 points. Claude Code Review sparks 5/review debate. Jon Turek finds cheap convexity on Polymarket. Oscar predictions for Sunday. Noah Smith asks if we're in the foothills of WW3.</description>
+      <description>Killen Time — 2026-03-11 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-11-01/killen-time-2026-03-11.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-11-01/killen-time-2026-03-11.mp3" length="75006870" type="audio/mpeg"/>
       <pubDate>Wed, 11 Mar 2026 12:39:22 +0000</pubDate>
-      <itunes:duration>1:18:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-12 #1</title>
-      <description>AI agents reshape work (Mollick), GPT-5.4 reviewed (Zvi), Iran/MAGA polling (Silver), prediction market legal battles, education myths (deBoer), biosecurity wake-up call, Karp at a16z, VF Oscar party overhaul, Kawhi drops 45</description>
+      <description>Killen Time — 2026-03-12 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/killen-time-2026-03-12-01.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/killen-time-2026-03-12-01.mp3" length="80888360" type="audio/mpeg"/>
       <pubDate>Thu, 12 Mar 2026 15:10:06 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/artwork-2026-03-12.jpg"/>
-      <itunes:duration>1:22:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-13</title>
-      <description>Friday the 13th edition. 2028 presidential race tightens on prediction markets. CFTC drops new guidance on sports event contracts. Pentagon AI czar Emil Michael reveals Anthropic contract concerns. Forward Guidance and Odd Lots on the Iran oil shock. Yglesias on the UK triple lock. Noah Smith donates 10K to save San Francisco. SGA passes Wilt. Oscars Sunday. F1 Shanghai.</description>
+      <description>Killen Time — 2026-03-13</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-13-01/killen-time-2026-03-13.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-13-01/killen-time-2026-03-13.mp3" length="76006806" type="audio/mpeg"/>
       <pubDate>Fri, 13 Mar 2026 12:17:12 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-13-01/artwork-2026-03-13.jpg"/>
-      <itunes:duration>1:19:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-14 #1</title>
-      <description>Iran war deep dive with Ezra Klein/Ali Vaiz. xAI imploding as cofounders flee. Meta delays Avocado model, plans 20% layoffs. Cursor seeks $50B valuation. Polymarket savage Oscar picks. Jalen Brown ejection debate. NBA standings chaos — Lakers are the 3-seed. Antonelli youngest F1 pole sitter. Bill Gurley on career regret.</description>
+      <description>Killen Time — 2026-03-14 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-14-01/killen-time-2026-03-14.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-14-01/killen-time-2026-03-14.mp3" length="66119383" type="audio/mpeg"/>
       <pubDate>Sat, 14 Mar 2026 12:02:12 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-14-01/artwork-2026-03-14.jpg"/>
-      <itunes:duration>1:07:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-15</title>
-      <description>Antonelli wins first F1 GP, Mustafa Suleyman on AI personhood, METR benchmarks saturated, Freddie deBoer on Oscars and Black cinema, Lakers-Nuggets OT thriller, Brian McCarthy on bond market mispricing, Noah Smith on AI uncertainty fog, gaming industry as AI casualty, Agent Madness bracket, SNL with Harry Styles</description>
+      <description>Killen Time — 2026-03-15</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/killen-time-2026-03-15.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/killen-time-2026-03-15.mp3" length="66848618" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 11:59:05 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/artwork-2026-03-15.jpg"/>
-      <itunes:duration>1:08:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-16 #1</title>
-      <description>Oscars results and prediction market winners. CFTC Chair suggests sick people bet on drug trials. Illinois primaries preview. Nate Silver March Madness model. A16Z on AI startup survival. Yglesias on liberal class consciousness. Iran Strait of Hormuz escalation. Peter Attia on Obacetrapib and Alzheimer's. NBA Western Conference playoff race.</description>
+      <description>Killen Time — 2026-03-16 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-16-01/killen-time-2026-03-16.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-16-01/killen-time-2026-03-16.mp3" length="69153771" type="audio/mpeg"/>
       <pubDate>Mon, 16 Mar 2026 12:04:44 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-16-01/artwork-2026-03-16.jpg"/>
-      <itunes:duration>1:10:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-17</title>
-      <description>Prediction market polling paradox (59% want bans, 36% already use them). China distillation attacks on US AI models. NVIDIA GTC + Groq inference chips. Scott Alexander reframes hallucinations. Noah Smith on Strait of Hormuz economics. Yglesias: why the tech boom didn't build a megacity. Universal extends theatrical windows. NBA expansion vote: Seattle and Vegas. Darren Peterson health crisis shakes draft board. Women's March Madness: UConn at Magnus Carlsen levels.</description>
+      <description>Killen Time — 2026-03-17</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-17-01/killen-time-2026-03-17.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-17-01/killen-time-2026-03-17.mp3" length="70871868" type="audio/mpeg"/>
       <pubDate>Tue, 17 Mar 2026 12:19:21 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-17-01/artwork-2026-03-17.jpg"/>
-      <itunes:duration>1:12:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-18</title>
-      <description>Arizona files criminal charges against Kalshi. The BETS OFF Act drops in Congress. Bob Elliott explains why central banks never ease into oil shocks. Nate Silver on the game theory of the TACO trade. Elon Musk says we are in the hard takeoff. GPT 5.4 solving research-level math. The FDA rug-pulls Moderna and they shelve their infectious disease pipeline. Freddie deBoer coins overlearning. UK politics in structural meltdown. Wemby is the best player Bill Simmons has seen this year. Plus worst contracts of 2026.</description>
+      <description>Killen Time — 2026-03-18</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-18-01/killen-time-2026-03-18.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-18-01/killen-time-2026-03-18.mp3" length="81713344" type="audio/mpeg"/>
       <pubDate>Wed, 18 Mar 2026 12:11:15 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-18-01/artwork-2026-03-18.jpg"/>
-      <itunes:duration>1:23:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-20 #1</title>
-      <description>Kalshi doubles to $22B valuation. MLB signs exclusive Polymarket deal. Luka drops 60 on the Heat. Hunter Alpha revealed as Xiaomi. Wemby clinches Spurs playoffs. Cade Cunningham collapsed lung. Paul Feig on making $400M hits. Zvi AI roundup. Zoning reform and racial justice.</description>
+      <description>Killen Time — 2026-03-20 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-20-01/killen-time-2026-03-20.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-20-01/killen-time-2026-03-20.mp3" length="69749067" type="audio/mpeg"/>
       <pubDate>Fri, 20 Mar 2026 12:04:34 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-20-01/artwork-2026-03-20.jpg"/>
-      <itunes:duration>1:11:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-22</title>
-      <description>Oil markets screaming beyond headline WTI (Oman crude at $170), Kalshi hit with Nevada TRO, NVIDIA GTC forecasts $1T revenue, Lakers win 9th straight as LeBron breaks games record, Project Hail Mary opens to $80M, White House AI framework is preemption with nothing, F1 2026 produces more racing but less driving.</description>
+      <description>Killen Time — 2026-03-22</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-22-01/killen-time-2026-03-22.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-22-01/killen-time-2026-03-22.mp3" length="70235893" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2026 12:05:31 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-22-01/artwork-2026-03-22.jpg"/>
-      <itunes:duration>1:11:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-23 #1</title>
-      <description>Prediction markets face political siege from AOC to Arizona criminal charges. Sam Harris on Iran with Coleman Hughes. Noah Smith asks Claude about AI and the limits of human understanding. Celtics struggle to reintegrate Tatum. Love Story on FX is the sleeper hit of the spring.</description>
+      <description>Killen Time — 2026-03-23 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/killen-time-2026-03-23.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/killen-time-2026-03-23.mp3" length="70984731" type="audio/mpeg"/>
       <pubDate>Mon, 23 Mar 2026 12:05:58 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/artwork-2026-03-23.jpg"/>
-      <itunes:duration>1:12:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-24 #1</title>
-      <description>Iran oil crisis is the largest energy disruption ever recorded. Bipartisan bill targets prediction market sports contracts. David Shor warns of mass white-collar AI displacement. Freddie deBoer on NBA stat inflation. Noah Smith on the dangerous illusion of historical inevitability.</description>
+      <description>Killen Time — 2026-03-24 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-24-01/killen-time-2026-03-24.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-24-01/killen-time-2026-03-24.mp3" length="69543606" type="audio/mpeg"/>
       <pubDate>Tue, 24 Mar 2026 12:08:45 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-24-01/artwork-2026-03-24.jpg"/>
-      <itunes:duration>1:11:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-25</title>
-      <description>OpenAI kills Sora and restructures around AGI Deployment. Kalshi hits $10B monthly volume. Iran oil crisis cascades into petrochemicals. NBPA goes to war with Bucks over Giannis. Coleman Hughes and Glenn Greenwald debate the Israel lobby. Plus architecture, charter schools, and the NBA 65-game rule.</description>
+      <description>Killen Time — 2026-03-25</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-25-01/killen-time-2026-03-25.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-25-01/killen-time-2026-03-25.mp3" length="71610984" type="audio/mpeg"/>
       <pubDate>Wed, 25 Mar 2026 12:43:35 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-25-01/artwork-2026-03-25.jpg"/>
-      <itunes:duration>1:13:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-26 #1</title>
-      <description>Iran war economics via Noah Smith and Nate Silver, social media Big Tobacco moment, AI worst sales pitch ever, prediction market legislation escalates in Congress, Wolves shock Rockets in epic OT collapse, Celtics-Thunder finals preview, Wemby 7 blocks in 27 minutes, why movies are getting longer, Honda engine vibration mystery at Suzuka</description>
+      <description>Killen Time — 2026-03-26 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-26-01/killen-time-2026-03-26.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-26-01/killen-time-2026-03-26.mp3" length="80297374" type="audio/mpeg"/>
       <pubDate>Thu, 26 Mar 2026 12:20:05 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-26-01/artwork-2026-03-26.jpg"/>
-      <itunes:duration>1:22:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-27 #1</title>
-      <description>Is Trumpism dead? Christopher Caldwell makes the case on Ezra Klein. Plus: the Fed is trapped, GPU compute gets a Bloomberg price index, Ben Thompson's Sora postmortem, Kyla Scanlon on the Ozempicization of everything, a global helium shortage threatening chip fabs, Cuba's economic collapse, Taylor Swift album releases causing traffic deaths, NBA playoff race tightening, and McLaren looking fast at Suzuka.</description>
+      <description>Killen Time — 2026-03-27 #1</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-27-01/killen-time-2026-03-27.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-27-01/killen-time-2026-03-27.mp3" length="81809045" type="audio/mpeg"/>
       <pubDate>Fri, 27 Mar 2026 12:47:44 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-27-01/artwork-2026-03-27.jpg"/>
-      <itunes:duration>1:24:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-28</title>
-      <description>Friday edition: AI, prediction markets, NBA, entertainment, and more.</description>
+      <description>Killen Time — 2026-03-28</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-28-01/killen-time-2026-03-28.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-28-01/killen-time-2026-03-28.mp3" length="48906390" type="audio/mpeg"/>
       <pubDate>Sat, 28 Mar 2026 21:12:34 +0000</pubDate>
-      <itunes:duration>50:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-29</title>
-      <description>AI reasoning models develop internal debates, FrontierMath benchmark breaks before the models do, engineers become agent managers while AI scheming cases hit 700, Fruit Love Island averages 10M views, Barksdale drone swarms rattle geopolitical traders, Bucks eliminated, Sixers Big Three reunite, F1 safety crisis at Suzuka, and Kim Novak pushes back on her biopic casting.</description>
+      <description>Killen Time — 2026-03-29</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-29-01/killen-time-2026-03-29.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-29-01/killen-time-2026-03-29.mp3" length="70323277" type="audio/mpeg"/>
       <pubDate>Sun, 29 Mar 2026 12:09:07 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-29-01/artwork-2026-03-29.jpg"/>
-      <itunes:duration>1:11:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-30</title>
-      <description>Goldman Sachs CIO says AI deployment is no longer a drill, $143M in suspicious Polymarket profits, ICE invests $1.6B in prediction markets, three frontier models expected in April, Ezra Klein on cognitive surrender, NBA playoff picture heats up, Project Hail Mary crosses $300M, and Noah Smith makes the case for EVs as national security.</description>
+      <description>Killen Time — 2026-03-30</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-30-01/killen-time-2026-03-30.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-30-01/killen-time-2026-03-30.mp3" length="59502646" type="audio/mpeg"/>
       <pubDate>Mon, 30 Mar 2026 12:12:13 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-30-01/artwork-2026-03-30.jpg"/>
-      <itunes:duration>1:00:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-03-31</title>
-      <description>Prediction markets at war: Kalshi vs Polymarket as Congress closes in. AI research agents going recursive. SGA drops 47 on 19 shots in the MVP stretch run. Netflix hits $28/month. Scott Alexander demolishes telescopic altruism. Plus portable nuclear reactors, Embiid's defensive decline, and the NASA chief economist.</description>
+      <description>Killen Time — 2026-03-31</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-31-01/killen-time-2026-03-31.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-31-01/killen-time-2026-03-31.mp3" length="43093782" type="audio/mpeg"/>
       <pubDate>Tue, 31 Mar 2026 14:26:19 +0000</pubDate>
-      <itunes:duration>44:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-01</title>
-      <description>Block fires 40% of its workforce to rebuild around AI squads. Ethan Mollick on why chatbot interfaces are the real bottleneck. Nathan Labenz on the nearness of the singularity. Trump signs voting executive order with immediate prediction market implications. Fed Governor Miran dissents for rate cuts and argues the oil shock is transitory. SGA foul-drawing mastery dissected ahead of playoffs. Mark Cuban regrets who he sold the Mavs to. Noah Smith on Japan twenty years later.</description>
+      <description>Killen Time — 2026-04-01</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/killen-time-2026-04-01.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/killen-time-2026-04-01.mp3" length="63448475" type="audio/mpeg"/>
       <pubDate>Wed, 01 Apr 2026 12:10:16 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/artwork-2026-04-01.jpg"/>
-      <itunes:duration>1:04:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-02</title>
-      <description>Anthropic abandons hard safety commitments in RSP v3 — Zvi Mowshowitz dissects what it means for AI governance. World CEO Alex Blania makes the case for proof-of-human infrastructure on a16z. The AI economy accelerates with OpenAI at $852B, single-bit models, and a two-person company tracking $1.8B in revenue. Polymarket self-certifies elections and economic indicators with the CFTC while Kalshi promotes 30-leg parlays and files gambling trademarks.</description>
+      <description>Killen Time — 2026-04-02</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/killen-time-2026-04-02.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/killen-time-2026-04-02.mp3" length="42033553" type="audio/mpeg"/>
       <pubDate>Thu, 02 Apr 2026 13:53:56 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/artwork-2026-04-02.jpg"/>
-      <itunes:duration>42:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-03</title>
-      <description>DOJ sues three states to protect prediction markets. ChatGPT co-creator leaves OpenAI for AI materials lab. SGA locks up MVP in definitive Bontemps poll. Iran thinks its winning the war and China may be the real beneficiary. Plus movies getting longer, investment banking exposed, and Freddie deBoer on Millennial confidence.</description>
+      <description>Killen Time — 2026-04-03</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-01/killen-time-2026-04-03.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-01/killen-time-2026-04-03.mp3" length="22194476" type="audio/mpeg"/>
       <pubDate>Fri, 03 Apr 2026 13:28:09 +0000</pubDate>
-      <itunes:duration>23:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-03</title>
-      <description>Andreessen on the 80-year overnight success of AI, Democrats split on whether AI is real, China semiconductor record revenues and DeepSeek V4 on Huawei silicon, 100% pharma tariffs, Meta making $16B from scam ads, NBA Rookie of the Year race, Amazon worldbuilding strategy, Tom Holland on pre-Christian values, and the Whispering Earring on AI agency.</description>
+      <description>Killen Time — 2026-04-03</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-02/killen-time-2026-04-03.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-02/killen-time-2026-04-03.mp3" length="70173514" type="audio/mpeg"/>
       <pubDate>Fri, 03 Apr 2026 18:42:26 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-02/artwork-2026-04-03-02.jpg"/>
-      <itunes:duration>1:11:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-04</title>
-      <description>Zuckerberg is coding again with Claude Code. A 23-year-old Linux vulnerability found by AI. Microsoft Copilot at 3% adoption. Prediction markets sign FIFA and LALIGA deals. Cooper Flagg drops 51 points. Gold overtakes US Treasuries as top reserve asset.</description>
+      <description>Killen Time — 2026-04-04</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/killen-time-2026-04-04.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/killen-time-2026-04-04.mp3" length="66264439" type="audio/mpeg"/>
       <pubDate>Sat, 04 Apr 2026 12:18:45 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/artwork-2026-04-04.jpg"/>
-      <itunes:duration>1:07:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-05</title>
-      <description>Sunday deep dive: AI deskilling as the real threat, computer vision approaching its ChatGPT moment, UK courting Anthropic, gradual disempowerment taxonomy, satellite imagery blackout over Iran, Jokic-Wembanyama OT thriller, Pistons clinch East 1-seed without Cade, SNL institutional durability, and academic proof-of-work breaking down.</description>
+      <description>Killen Time — 2026-04-05</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-05-01/killen-time-2026-04-05.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-05-01/killen-time-2026-04-05.mp3" length="76902793" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2026 12:36:25 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-05-01/artwork-2026-04-05.jpg"/>
-      <itunes:duration>1:18:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-06</title>
-      <description>Monday's deep dive: The New Yorker's blockbuster Sam Altman profile lands alongside WSJ docs showing OpenAI and Anthropic inference costs exceed 50% of revenue. Noah Smith's AI roundup challenges growth assumptions. France pulls gold from US vaults. Raimondo warns European industry is getting crushed. Steph Curry returns with 29 points, Wemby-Jokic deliver game of the year, and Cooper Flagg's 96-point weekend flips the ROY race. Plus immigration and assimilation with Coleman Hughes, Iran infrastructure threats and international law, and the gap between what institutions say and what they actually do.</description>
+      <description>Killen Time — 2026-04-06</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-06-01/killen-time-2026-04-06.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-06-01/killen-time-2026-04-06.mp3" length="80144524" type="audio/mpeg"/>
       <pubDate>Mon, 06 Apr 2026 12:18:41 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-06-01/artwork-2026-04-06.jpg"/>
-      <itunes:duration>1:22:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-07</title>
-      <description>Balaji on AI verification costs and the trust economy, one-person AI conglomerates, Meta Claudeonomics, Visser macro thesis on hardware vs software. Polymarket pilot rescue market fallout, Kalshi Third Circuit victory, IRS tax chaos for traders. Bulls fire front office, Wemby rib injury, All-NBA eligibility mess, Michigan wins title. WGA four-year deal and AI implications for Hollywood. Noah Smith on Iran, Zvi on housing policy.</description>
+      <description>Killen Time — 2026-04-07</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-07-01/killen-time-2026-04-07.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-07-01/killen-time-2026-04-07.mp3" length="67444514" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 12:24:39 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-07-01/artwork-2026-04-07.jpg"/>
-      <itunes:duration>1:08:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-09</title>
-      <description>Anthropic ships Mythos and launches Project Glasswing to patch thousands of zero-day vulnerabilities before hostile actors catch up. Plus the AI model zoo speciates overnight, Robin Hanson sets a deadline for the AI investment thesis, prediction markets get a Fox News deal, and the NBA trade deadline fallout continues.</description>
+      <description>Killen Time — 2026-04-09</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-09-01/killen-time-2026-04-09.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-09-01/killen-time-2026-04-09.mp3" length="62115690" type="audio/mpeg"/>
       <pubDate>Thu, 09 Apr 2026 21:47:40 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-09-01/artwork-2026-04-09.jpg"/>
-      <itunes:duration>1:03:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-10</title>
-      <description>Zvi Mowshowitz dissects the Mythos system card and finds alignment testing may be approaching its limits. White House sends all-staff email warning against insider trading on prediction markets after suspicious Polymarket ceasefire bets. TSMC beats estimates, CoreWeave signs Anthropic deal. Embiid out with appendicitis, Giannis trade saga deepens. Derek Thompson on the entry-level hiring crisis. Fareed Zakaria on the Iran conflict and American strategic power.</description>
+      <description>Killen Time — 2026-04-10</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3" length="76078412" type="audio/mpeg"/>
       <pubDate>Fri, 10 Apr 2026 14:52:38 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/artwork-2026-04-10.jpg"/>
-      <itunes:duration>1:17:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-11</title>
-      <description>Mythos cybersecurity deep dive: Zvi breaks down the staggering vulnerability findings, Project Glasswing, and what it means for defenders. Plus Anthropic enterprise data from Ramp, OpenAI legal and talent troubles, and Manifold prediction markets on AI economics.</description>
+      <description>Killen Time — 2026-04-11</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-11-01/killen-time-2026-04-11.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-11-01/killen-time-2026-04-11.mp3" length="67498551" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 11:49:19 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-11-01/artwork-2026-04-11.jpg"/>
-      <itunes:duration>1:08:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-12</title>
-      <description>Self-improving open-source AI from MiniMax, Claude Code dominating HumanX, the Jevons Paradox in AI compute, Nate Silver on synthetic polling dangers, SpaceX two-trillion-dollar IPO and capital competition, NBA playoff preview, Coachella and SNL highlights, and the structural gold thesis from Gavekal.</description>
+      <description>Killen Time — 2026-04-12</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-12-01/killen-time-2026-04-12.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-12-01/killen-time-2026-04-12.mp3" length="63191482" type="audio/mpeg"/>
       <pubDate>Sun, 12 Apr 2026 12:31:23 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-12-01/artwork-2026-04-12.jpg"/>
-      <itunes:duration>1:04:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-13</title>
-      <description>AI power concentration and the Piketty thesis from Noah Smith, Altman home attacks, prediction markets hitting record volume with CFTC moves and the California governor race collapse, Gallup 50% AI adoption milestone, NBA playoff race, and entertainment industry updates.</description>
+      <description>Killen Time — 2026-04-13</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-13-01/killen-time-2026-04-13.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-13-01/killen-time-2026-04-13.mp3" length="71742395" type="audio/mpeg"/>
       <pubDate>Mon, 13 Apr 2026 11:52:03 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-13-01/artwork-2026-04-13.jpg"/>
-      <itunes:duration>1:13:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-14</title>
-      <description>Anthropic vs OpenAI on the Illinois AI liability shield, Narasimhan joins the Anthropic board ahead of a potential IPO, Treasury wants Mythos access, Zvi on Claude Mythos capabilities, Gouker maps the prediction market startup ecosystem, Polymarket audits its Builders Program, and Robin Hanson asks why we ban sports bets.</description>
+      <description>Killen Time — 2026-04-14</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-14-01/killen-time-2026-04-14.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-14-01/killen-time-2026-04-14.mp3" length="59419557" type="audio/mpeg"/>
       <pubDate>Tue, 14 Apr 2026 16:46:52 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-14-01/artwork-2026-04-14.jpg"/>
-      <itunes:duration>1:00:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-15</title>
-      <description>Masters traded half a billion at Kalshi but the real number is way smaller. Iran war splits global energy map in two. LaMelo trips Bam in play-in OT while Amazon goes to technical difficulties. Macro hedge funds using AI to trade the oil shock. Replit CEO says not coding is an advantage. Plus Nate Silver on why engagement metrics are ruining everything.</description>
+      <description>Killen Time — 2026-04-15</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-15-01/killen-time-2026-04-15.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-15-01/killen-time-2026-04-15.mp3" length="63704214" type="audio/mpeg"/>
       <pubDate>Wed, 15 Apr 2026 15:41:47 +0000</pubDate>
-      <itunes:duration>1:06:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-16</title>
-      <description>Today's Killen Time Update covering the biggest stories in AI, prediction markets, NBA, entertainment, and economics.</description>
+      <description>Killen Time — 2026-04-16</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-16-01/killen-time-2026-04-16.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-16-01/killen-time-2026-04-16.mp3" length="54647190" type="audio/mpeg"/>
       <pubDate>Thu, 16 Apr 2026 15:20:04 +0000</pubDate>
-      <itunes:duration>56:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-17</title>
-      <description>Today's Killen Time Update.</description>
+      <description>Killen Time — 2026-04-17</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-17-01/killen-time-2026-04-17.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-17-01/killen-time-2026-04-17.mp3" length="84621348" type="audio/mpeg"/>
       <pubDate>Fri, 17 Apr 2026 10:50:01 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-17-01/artwork-2026-04-17.jpg"/>
-      <itunes:duration>1:26:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-18</title>
-      <description>Today's Killen Time Update.</description>
+      <description>Killen Time — 2026-04-18</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-18-01/killen-time-2026-04-18.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-18-01/killen-time-2026-04-18.mp3" length="97116825" type="audio/mpeg"/>
       <pubDate>Sat, 18 Apr 2026 14:33:38 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-18-01/artwork-2026-04-18.jpg"/>
-      <itunes:duration>1:39:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>Killen Time — 2026-04-19</title>
-      <description>Today's Killen Time Update.</description>
+      <description>Killen Time — 2026-04-19</description>
       <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-19-01/killen-time-2026-04-19.mp3</guid>
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-19-01/killen-time-2026-04-19.mp3" length="86369033" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 16:00:22 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-19-01/artwork-2026-04-19.jpg"/>
-      <itunes:duration>1:28:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
