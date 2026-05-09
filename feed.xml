@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 11:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:57:41 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -849,6 +849,16 @@
       <pubDate>Thu, 07 May 2026 11:50:06 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-05-07-01/artwork-2026-05-07.jpg"/>
       <itunes:duration>1:14:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-05-09</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-05-09-01/killen-time-2026-05-09.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-05-09-01/killen-time-2026-05-09.mp3" length="81047763" type="audio/mpeg"/>
+      <pubDate>Sat, 09 May 2026 11:57:06 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-05-09-01/artwork-2026-05-09.jpg"/>
+      <itunes:duration>1:23:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
