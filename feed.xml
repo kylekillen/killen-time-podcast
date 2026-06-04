@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 10:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:41:13 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-03 #4</title>
-      <description>Killen Time — 2026-03-03 #4</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/killen-time-2026-03-03-04.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/killen-time-2026-03-03-04.mp3" length="16433324" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Mar 2026 23:26:42 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-03-04/artwork-2026-03-03-04.jpg"/>
-      <itunes:duration>15:31</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-03 #5</title>
       <description>Late night edition: Lockheed follows Anthropic ban, Cursor hits $2B ARR, zero human companies, Japan as defense arsenal, Texas primaries, AI security trifecta</description>
@@ -1013,6 +1003,16 @@
       <pubDate>Tue, 02 Jun 2026 10:39:12 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-02-01/artwork-2026-06-02.jpg"/>
       <itunes:duration>1:05:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-04</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-04-01/killen-time-2026-06-04.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-04-01/killen-time-2026-06-04.mp3" length="64451835" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jun 2026 10:40:29 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-04-01/artwork-2026-06-04.jpg"/>
+      <itunes:duration>1:05:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
