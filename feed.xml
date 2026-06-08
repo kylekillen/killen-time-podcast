@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 11:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:47:53 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-05 #1</title>
-      <description>China tech rout, AI economic paradox, Cal Newport Deep Work at 10, Nintendo NAND crisis, Epic Google gag clause, NATO AI pivot, NBA Hornets streak, institutional crypto convergence</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/killen-time-2026-03-05-01.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/killen-time-2026-03-05-01.mp3" length="79525716" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Mar 2026 12:59:37 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-01/artwork-2026-03-05.jpg"/>
-      <itunes:duration>1:21:30</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-05 #2</title>
       <description>Block lays off AI team, Goodfire's Intentional Design, Canada forces OpenAI police notification, OpenAI prediction market insider trading allegations, 30B tariff refund program, ROAD Housing Act, Meta opens WhatsApp in EU, funding rounds, cybersecurity developments, culture and sports.</description>
@@ -1013,6 +1003,16 @@
       <pubDate>Mon, 08 Jun 2026 11:06:58 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-08-01/artwork-2026-06-08.jpg"/>
       <itunes:duration>1:27:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-08</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-08-02/killen-time-2026-06-08.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-08-02/killen-time-2026-06-08.mp3" length="84369208" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jun 2026 11:47:10 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-08-02/artwork-2026-06-08.jpg"/>
+      <itunes:duration>1:26:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
