@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 10:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:44:20 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-05 #3</title>
-      <description>GPT-5.4 launches with computer use. Cursor Automations turns IDEs into agent platforms. Wikipedia compromised. Clinejection attack hits 4K developers. Paul Graham on The Brand Age. NBA tanking crisis: bottom 8 teams 2-52 vs real competition.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/killen-time-2026-03-05-03.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/killen-time-2026-03-05-03.mp3" length="85140062" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Mar 2026 20:47:02 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-05-03/artwork-2026-03-05-03.jpg"/>
-      <itunes:duration>1:28:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-05 #4</title>
       <description>Anthropic consumer surge, AI labor market early warning, CoT safety research, 2028 GOP primary draft, DHS regime change, Proton Mail FBI, and more</description>
@@ -1013,6 +1003,16 @@
       <pubDate>Tue, 09 Jun 2026 10:53:16 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-09-01/artwork-2026-06-09.jpg"/>
       <itunes:duration>1:05:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-10</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-10-01/killen-time-2026-06-10.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-10-01/killen-time-2026-06-10.mp3" length="70270424" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jun 2026 10:43:34 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-10-01/artwork-2026-06-10.jpg"/>
+      <itunes:duration>1:11:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
