@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 14:19:55 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-06 #1</title>
-      <description>Oil vol at 2020 extremes, Qatar LNG offline, late-cycle macro signals. Gallego on Iran: no evidence, no case, no end goal. Nobel laureate Mokyr on culture driving progress and immigration as unforced error. LeBron passes Kareem for most FG ever. Wemby destroys Pistons with 38/5. West playoff race heats up. 2026 draft class breakdown. Rachel Sennott accidentally sold HBO a show. F1 opens with Mercedes ominously fast.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/killen-time-2026-03-06.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/killen-time-2026-03-06.mp3" length="63664145" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Mar 2026 12:49:21 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-06-01/artwork-2026-03-06.jpg"/>
-      <itunes:duration>1:06:03</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-06 #2</title>
       <description>Jobs report shock (-92K), SoftBank's 0B AI loan, Mozilla Claude Firefox bugs, GPT-5.4 benchmarks, SEIU ballot extortion, Freddie deBoer on incels, South Korea fertility crisis, global warming acceleration, entertainment roundup</description>
@@ -1013,6 +1003,16 @@
       <pubDate>Fri, 12 Jun 2026 11:14:25 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-12-01/artwork-2026-06-12.jpg"/>
       <itunes:duration>1:13:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-13</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-13-01/killen-time-2026-06-13.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-13-01/killen-time-2026-06-13.mp3" length="69118218" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 14:19:11 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-13-01/artwork-2026-06-13.jpg"/>
+      <itunes:duration>1:10:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
