@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 04:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 04:18:33 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-23 #1</title>
-      <description>Prediction markets face political siege from AOC to Arizona criminal charges. Sam Harris on Iran with Coleman Hughes. Noah Smith asks Claude about AI and the limits of human understanding. Celtics struggle to reintegrate Tatum. Love Story on FX is the sleeper hit of the spring.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/killen-time-2026-03-23.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/killen-time-2026-03-23.mp3" length="70984731" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Mar 2026 12:05:58 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-23-01/artwork-2026-03-23.jpg"/>
-      <itunes:duration>1:12:37</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-24 #1</title>
       <description>Iran oil crisis is the largest energy disruption ever recorded. Bipartisan bill targets prediction market sports contracts. David Shor warns of mass white-collar AI displacement. Freddie deBoer on NBA stat inflation. Noah Smith on the dangerous illusion of historical inevitability.</description>
@@ -1016,6 +1006,16 @@
       <pubDate>Tue, 16 Jun 2026 04:15:30 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-14/artwork.jpg"/>
       <itunes:duration>14:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Icarus Agenda by Robert Ludlum — Audiobook (Part 9 of 16)</title>
+      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of The Icarus Agenda by Robert Ludlum — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-15/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-15/killen-time-2026-06-16.mp3" length="101235884" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 04:17:51 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-15/artwork.jpg"/>
+      <itunes:duration>1:45:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
