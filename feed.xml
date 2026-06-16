@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 03:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 03:27:50 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-17</title>
-      <description>Prediction market polling paradox (59% want bans, 36% already use them). China distillation attacks on US AI models. NVIDIA GTC + Groq inference chips. Scott Alexander reframes hallucinations. Noah Smith on Strait of Hormuz economics. Yglesias: why the tech boom didn't build a megacity. Universal extends theatrical windows. NBA expansion vote: Seattle and Vegas. Darren Peterson health crisis shakes draft board. Women's March Madness: UConn at Magnus Carlsen levels.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-17-01/killen-time-2026-03-17.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-17-01/killen-time-2026-03-17.mp3" length="70871868" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Mar 2026 12:19:21 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-17-01/artwork-2026-03-17.jpg"/>
-      <itunes:duration>1:12:29</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-18</title>
       <description>Arizona files criminal charges against Kalshi. The BETS OFF Act drops in Congress. Bob Elliott explains why central banks never ease into oil shocks. Nate Silver on the game theory of the TACO trade. Elon Musk says we are in the hard takeoff. GPT 5.4 solving research-level math. The FDA rug-pulls Moderna and they shelve their infectious disease pipeline. Freddie deBoer coins overlearning. UK politics in structural meltdown. Wemby is the best player Bill Simmons has seen this year. Plus worst contracts of 2026.</description>
@@ -1016,6 +1006,16 @@
       <pubDate>Tue, 16 Jun 2026 03:11:11 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-10/artwork.jpg"/>
       <itunes:duration>1:45:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Icarus Agenda by Robert Ludlum — Audiobook (Part 6 of 16)</title>
+      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of The Icarus Agenda by Robert Ludlum — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-11/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-11/killen-time-2026-06-16.mp3" length="106178732" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 03:27:08 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-11/artwork.jpg"/>
+      <itunes:duration>1:50:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
