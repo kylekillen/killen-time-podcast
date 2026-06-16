@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:39:48 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,15 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-10 #1</title>
-      <description>Prediction markets boom (Novig $75M, Underdog acquires CFTC exchange, Moore-Carbajal bill), Iran war supply chain economics (Strait of Hormuz, fertilizer, chips), a16z Top 100 AI report (platform divergence), Zvi on Claude Code, Thunder-Nuggets game of the year (SGA ties Wilt), KOC NBA breakdown, Slow Boring on 2028 Dems, Netflix-Affleck AI strategy, Paramount-Warner merger implications</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-10-01/killen-time-2026-03-10.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-10-01/killen-time-2026-03-10.mp3" length="77983254" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Mar 2026 12:19:48 +0000</pubDate>
-      <itunes:duration>1:21:13</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-11 #1</title>
       <description>Bam Adebayo scores 83 points. Claude Code Review sparks 5/review debate. Jon Turek finds cheap convexity on Polymarket. Oscar predictions for Sunday. Noah Smith asks if we're in the foothills of WW3.</description>
@@ -1014,6 +1005,16 @@
       <pubDate>Tue, 16 Jun 2026 01:25:07 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-03/artwork.jpg"/>
       <itunes:duration>1:29:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>HERO by Thomas Perry — Audiobook (Part 4 of 5)</title>
+      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of HERO by Thomas Perry — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-04/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-04/killen-time-2026-06-16.mp3" length="86412332" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 01:39:06 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-04/artwork.jpg"/>
+      <itunes:duration>1:30:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
