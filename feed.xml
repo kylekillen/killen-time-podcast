@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 06:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:15:39 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,15 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-31</title>
-      <description>Prediction markets at war: Kalshi vs Polymarket as Congress closes in. AI research agents going recursive. SGA drops 47 on 19 shots in the MVP stretch run. Netflix hits $28/month. Scott Alexander demolishes telescopic altruism. Plus portable nuclear reactors, Embiid's defensive decline, and the NASA chief economist.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-31-01/killen-time-2026-03-31.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-31-01/killen-time-2026-03-31.mp3" length="43093782" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Mar 2026 14:26:19 +0000</pubDate>
-      <itunes:duration>44:53</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-01</title>
       <description>Block fires 40% of its workforce to rebuild around AI squads. Ethan Mollick on why chatbot interfaces are the real bottleneck. Nathan Labenz on the nearness of the singularity. Trump signs voting executive order with immediate prediction market implications. Fed Governor Miran dissents for rate cuts and argues the oil shock is transitory. SGA foul-drawing mastery dissected ahead of playoffs. Mark Cuban regrets who he sold the Mavs to. Noah Smith on Japan twenty years later.</description>
@@ -124,8 +115,8 @@
     <item>
       <title>Killen Time — 2026-04-10</title>
       <description>Zvi Mowshowitz dissects the Mythos system card and finds alignment testing may be approaching its limits. White House sends all-staff email warning against insider trading on prediction markets after suspicious Polymarket ceasefire bets. TSMC beats estimates, CoreWeave signs Anthropic deal. Embiid out with appendicitis, Giannis trade saga deepens. Derek Thompson on the entry-level hiring crisis. Fareed Zakaria on the Iran conflict and American strategic power.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3" length="76078412" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10-01.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10-01.mp3" length="76078412" type="audio/mpeg"/>
       <pubDate>Fri, 10 Apr 2026 14:52:38 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/artwork-2026-04-10.jpg"/>
       <itunes:duration>1:17:59</itunes:duration>
@@ -1017,6 +1008,16 @@
       <pubDate>Tue, 16 Jun 2026 06:18:05 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-22/artwork.jpg"/>
       <itunes:duration>1:16:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-16</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-23/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-23/killen-time-2026-06-16.mp3" length="79856863" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 11:14:55 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-23/artwork-2026-06-16.jpg"/>
+      <itunes:duration>1:21:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
