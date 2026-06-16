@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:03:40 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-12 #1</title>
-      <description>AI agents reshape work (Mollick), GPT-5.4 reviewed (Zvi), Iran/MAGA polling (Silver), prediction market legal battles, education myths (deBoer), biosecurity wake-up call, Karp at a16z, VF Oscar party overhaul, Kawhi drops 45</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/killen-time-2026-03-12-01.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/killen-time-2026-03-12-01.mp3" length="80888360" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Mar 2026 15:10:06 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-12-01/artwork-2026-03-12.jpg"/>
-      <itunes:duration>1:22:51</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-13</title>
       <description>Friday the 13th edition. 2028 presidential race tightens on prediction markets. CFTC drops new guidance on sports event contracts. Pentagon AI czar Emil Michael reveals Anthropic contract concerns. Forward Guidance and Odd Lots on the Iran oil shock. Yglesias on the UK triple lock. Noah Smith donates 10K to save San Francisco. SGA passes Wilt. Oscars Sunday. F1 Shanghai.</description>
@@ -1016,6 +1006,16 @@
       <pubDate>Tue, 16 Jun 2026 01:46:31 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-05/artwork.jpg"/>
       <itunes:duration>47:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Icarus Agenda by Robert Ludlum — Audiobook (Part 1 of 16)</title>
+      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of The Icarus Agenda by Robert Ludlum — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-06/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-06/killen-time-2026-06-16.mp3" length="106647596" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 02:02:57 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-06/artwork.jpg"/>
+      <itunes:duration>1:51:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
