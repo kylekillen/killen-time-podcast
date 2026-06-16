@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:32:33 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-27 #1</title>
-      <description>Is Trumpism dead? Christopher Caldwell makes the case on Ezra Klein. Plus: the Fed is trapped, GPU compute gets a Bloomberg price index, Ben Thompson's Sora postmortem, Kyla Scanlon on the Ozempicization of everything, a global helium shortage threatening chip fabs, Cuba's economic collapse, Taylor Swift album releases causing traffic deaths, NBA playoff race tightening, and McLaren looking fast at Suzuka.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-27-01/killen-time-2026-03-27.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-27-01/killen-time-2026-03-27.mp3" length="81809045" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Mar 2026 12:47:44 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-27-01/artwork-2026-03-27.jpg"/>
-      <itunes:duration>1:24:14</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-28</title>
       <description>Friday edition: AI, prediction markets, NBA, entertainment, and more.</description>
@@ -1016,6 +1006,16 @@
       <pubDate>Tue, 16 Jun 2026 05:16:07 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-18/artwork.jpg"/>
       <itunes:duration>1:47:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Icarus Agenda by Robert Ludlum — Audiobook (Part 13 of 16)</title>
+      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of The Icarus Agenda by Robert Ludlum — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-19/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-19/killen-time-2026-06-16.mp3" length="102224300" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 05:31:52 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-19/artwork.jpg"/>
+      <itunes:duration>1:46:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
