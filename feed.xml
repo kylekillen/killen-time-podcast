@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 06:07:25 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-29</title>
-      <description>AI reasoning models develop internal debates, FrontierMath benchmark breaks before the models do, engineers become agent managers while AI scheming cases hit 700, Fruit Love Island averages 10M views, Barksdale drone swarms rattle geopolitical traders, Bucks eliminated, Sixers Big Three reunite, F1 safety crisis at Suzuka, and Kim Novak pushes back on her biopic casting.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-29-01/killen-time-2026-03-29.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-29-01/killen-time-2026-03-29.mp3" length="70323277" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Mar 2026 12:09:07 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-29-01/artwork-2026-03-29.jpg"/>
-      <itunes:duration>1:11:58</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-30</title>
       <description>Goldman Sachs CIO says AI deployment is no longer a drill, $143M in suspicious Polymarket profits, ICE invests $1.6B in prediction markets, three frontier models expected in April, Ezra Klein on cognitive surrender, NBA playoff picture heats up, Project Hail Mary crosses $300M, and Noah Smith makes the case for EVs as national security.</description>
@@ -1017,6 +1007,16 @@
       <pubDate>Tue, 16 Jun 2026 05:49:24 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-20/artwork.jpg"/>
       <itunes:duration>1:46:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Icarus Agenda by Robert Ludlum — Audiobook (Part 15 of 16)</title>
+      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of The Icarus Agenda by Robert Ludlum — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-21/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-21/killen-time-2026-06-16.mp3" length="102631724" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 06:06:43 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-21/artwork.jpg"/>
+      <itunes:duration>1:46:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
