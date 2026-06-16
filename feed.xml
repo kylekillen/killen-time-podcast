@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 02:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:56:16 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-03-15</title>
-      <description>Antonelli wins first F1 GP, Mustafa Suleyman on AI personhood, METR benchmarks saturated, Freddie deBoer on Oscars and Black cinema, Lakers-Nuggets OT thriller, Brian McCarthy on bond market mispricing, Noah Smith on AI uncertainty fog, gaming industry as AI casualty, Agent Madness bracket, SNL with Harry Styles</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/killen-time-2026-03-15.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/killen-time-2026-03-15.mp3" length="66848618" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Mar 2026 11:59:05 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-03-15-01/artwork-2026-03-15.jpg"/>
-      <itunes:duration>1:08:23</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-03-16 #1</title>
       <description>Oscars results and prediction market winners. CFTC Chair suggests sick people bet on drug trials. Illinois primaries preview. Nate Silver March Madness model. A16Z on AI startup survival. Yglesias on liberal class consciousness. Iran Strait of Hormuz escalation. Peter Attia on Obacetrapib and Alzheimer's. NBA Western Conference playoff race.</description>
@@ -1016,6 +1006,16 @@
       <pubDate>Tue, 16 Jun 2026 02:36:13 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-08/artwork.jpg"/>
       <itunes:duration>1:47:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Icarus Agenda by Robert Ludlum — Audiobook (Part 4 of 16)</title>
+      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of The Icarus Agenda by Robert Ludlum — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-09/killen-time-2026-06-16.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-09/killen-time-2026-06-16.mp3" length="104100140" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 02:55:33 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-09/artwork.jpg"/>
+      <itunes:duration>1:48:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
