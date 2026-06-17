@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:27:57 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-01</title>
-      <description>Block fires 40% of its workforce to rebuild around AI squads. Ethan Mollick on why chatbot interfaces are the real bottleneck. Nathan Labenz on the nearness of the singularity. Trump signs voting executive order with immediate prediction market implications. Fed Governor Miran dissents for rate cuts and argues the oil shock is transitory. SGA foul-drawing mastery dissected ahead of playoffs. Mark Cuban regrets who he sold the Mavs to. Noah Smith on Japan twenty years later.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/killen-time-2026-04-01.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/killen-time-2026-04-01.mp3" length="63448475" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Apr 2026 12:10:16 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-01-01/artwork-2026-04-01.jpg"/>
-      <itunes:duration>1:04:46</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-02</title>
       <description>Anthropic abandons hard safety commitments in RSP v3 — Zvi Mowshowitz dissects what it means for AI governance. World CEO Alex Blania makes the case for proof-of-human infrastructure on a16z. The AI economy accelerates with OpenAI at $852B, single-bit models, and a two-person company tracking $1.8B in revenue. Polymarket self-certifies elections and economic indicators with the CFTC while Kalshi promotes 30-leg parlays and files gambling trademarks.</description>
@@ -115,8 +105,8 @@
     <item>
       <title>Killen Time — 2026-04-10</title>
       <description>Zvi Mowshowitz dissects the Mythos system card and finds alignment testing may be approaching its limits. White House sends all-staff email warning against insider trading on prediction markets after suspicious Polymarket ceasefire bets. TSMC beats estimates, CoreWeave signs Anthropic deal. Embiid out with appendicitis, Giannis trade saga deepens. Derek Thompson on the entry-level hiring crisis. Fareed Zakaria on the Iran conflict and American strategic power.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10-01.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10-01.mp3" length="76078412" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/killen-time-2026-04-10.mp3" length="76078412" type="audio/mpeg"/>
       <pubDate>Fri, 10 Apr 2026 14:52:38 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-10-01/artwork-2026-04-10.jpg"/>
       <itunes:duration>1:17:59</itunes:duration>
@@ -1018,6 +1008,16 @@
       <pubDate>Tue, 16 Jun 2026 11:14:55 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-23/artwork-2026-06-16.jpg"/>
       <itunes:duration>1:21:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-17</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-17-01/killen-time-2026-06-17.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-17-01/killen-time-2026-06-17.mp3" length="71711468" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 11:27:13 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-17-01/artwork-2026-06-17.jpg"/>
+      <itunes:duration>1:13:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
