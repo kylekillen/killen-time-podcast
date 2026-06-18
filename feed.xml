@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 11:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:37:55 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-02</title>
-      <description>Anthropic abandons hard safety commitments in RSP v3 — Zvi Mowshowitz dissects what it means for AI governance. World CEO Alex Blania makes the case for proof-of-human infrastructure on a16z. The AI economy accelerates with OpenAI at $852B, single-bit models, and a two-person company tracking $1.8B in revenue. Polymarket self-certifies elections and economic indicators with the CFTC while Kalshi promotes 30-leg parlays and files gambling trademarks.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/killen-time-2026-04-02.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/killen-time-2026-04-02.mp3" length="42033553" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Apr 2026 13:53:56 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-02-01/artwork-2026-04-02.jpg"/>
-      <itunes:duration>42:31</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-03</title>
       <description>DOJ sues three states to protect prediction markets. ChatGPT co-creator leaves OpenAI for AI materials lab. SGA locks up MVP in definitive Bontemps poll. Iran thinks its winning the war and China may be the real beneficiary. Plus movies getting longer, investment banking exposed, and Freddie deBoer on Millennial confidence.</description>
@@ -1018,6 +1008,16 @@
       <pubDate>Wed, 17 Jun 2026 11:27:13 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-17-01/artwork-2026-06-17.jpg"/>
       <itunes:duration>1:13:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-18</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-18-01/killen-time-2026-06-18.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-18-01/killen-time-2026-06-18.mp3" length="73776203" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 18:37:12 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-18-01/artwork-2026-06-18.jpg"/>
+      <itunes:duration>1:15:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
