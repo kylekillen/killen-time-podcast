@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 18:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:37:20 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,15 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-03</title>
-      <description>DOJ sues three states to protect prediction markets. ChatGPT co-creator leaves OpenAI for AI materials lab. SGA locks up MVP in definitive Bontemps poll. Iran thinks its winning the war and China may be the real beneficiary. Plus movies getting longer, investment banking exposed, and Freddie deBoer on Millennial confidence.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-01/killen-time-2026-04-03.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-03-01/killen-time-2026-04-03.mp3" length="22194476" type="audio/mpeg"/>
-      <pubDate>Fri, 03 Apr 2026 13:28:09 +0000</pubDate>
-      <itunes:duration>23:07</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-03</title>
       <description>Andreessen on the 80-year overnight success of AI, Democrats split on whether AI is real, China semiconductor record revenues and DeepSeek V4 on Huawei silicon, 100% pharma tariffs, Meta making $16B from scam ads, NBA Rookie of the Year race, Amazon worldbuilding strategy, Tom Holland on pre-Christian values, and the Whispering Earring on AI agency.</description>
@@ -1018,6 +1009,16 @@
       <pubDate>Thu, 18 Jun 2026 18:37:12 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-18-01/artwork-2026-06-18.jpg"/>
       <itunes:duration>1:15:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-19</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-01/killen-time-2026-06-19.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-01/killen-time-2026-06-19.mp3" length="64018724" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Jun 2026 11:36:35 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-01/artwork-2026-06-19.jpg"/>
+      <itunes:duration>1:05:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
