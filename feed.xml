@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 12:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:25:52 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-04</title>
-      <description>Zuckerberg is coding again with Claude Code. A 23-year-old Linux vulnerability found by AI. Microsoft Copilot at 3% adoption. Prediction markets sign FIFA and LALIGA deals. Cooper Flagg drops 51 points. Gold overtakes US Treasuries as top reserve asset.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/killen-time-2026-04-04.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/killen-time-2026-04-04.mp3" length="66264439" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Apr 2026 12:18:45 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-04-01/artwork-2026-04-04.jpg"/>
-      <itunes:duration>1:07:34</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-05</title>
       <description>Sunday deep dive: AI deskilling as the real threat, computer vision approaching its ChatGPT moment, UK courting Anthropic, gradual disempowerment taxonomy, satellite imagery blackout over Iran, Jokic-Wembanyama OT thriller, Pistons clinch East 1-seed without Cade, SNL institutional durability, and academic proof-of-work breaking down.</description>
@@ -1019,6 +1009,16 @@
       <pubDate>Fri, 19 Jun 2026 12:24:38 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-02/artwork.jpg"/>
       <itunes:duration>4:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fleet Brief — Today's Podcast Optimization Harvest</title>
+      <description>Fleet Optimizer's ranked harvest of fleet-optimization ideas from today's Killen Time agents/building beat: what's already in place, what I'm acting on, what to greenlight, and the hardware/model decisions to keep warm. Personal/internal brief, Brooke voice.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-03/killen-time-2026-06-19.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-03/killen-time-2026-06-19.mp3" length="4588076" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Jun 2026 13:25:09 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-03/artwork.jpg"/>
+      <itunes:duration>4:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
