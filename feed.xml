@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 11:08:03 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-07</title>
-      <description>Balaji on AI verification costs and the trust economy, one-person AI conglomerates, Meta Claudeonomics, Visser macro thesis on hardware vs software. Polymarket pilot rescue market fallout, Kalshi Third Circuit victory, IRS tax chaos for traders. Bulls fire front office, Wemby rib injury, All-NBA eligibility mess, Michigan wins title. WGA four-year deal and AI implications for Hollywood. Noah Smith on Iran, Zvi on housing policy.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-07-01/killen-time-2026-04-07.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-07-01/killen-time-2026-04-07.mp3" length="67444514" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Apr 2026 12:24:39 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-07-01/artwork-2026-04-07.jpg"/>
-      <itunes:duration>1:08:38</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-09</title>
       <description>Anthropic ships Mythos and launches Project Glasswing to patch thousands of zero-day vulnerabilities before hostile actors catch up. Plus the AI model zoo speciates overnight, Robin Hanson sets a deadline for the AI investment thesis, prediction markets get a Fox News deal, and the NBA trade deadline fallout continues.</description>
@@ -1019,6 +1009,16 @@
       <pubDate>Sat, 20 Jun 2026 00:04:02 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-05/artwork.jpg"/>
       <itunes:duration>46:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-06-20</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-20-01/killen-time-2026-06-20.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-20-01/killen-time-2026-06-20.mp3" length="72888948" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 11:07:18 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-20-01/artwork-2026-06-20.jpg"/>
+      <itunes:duration>1:14:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
