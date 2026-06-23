@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 05:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 05:49:15 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-13</title>
-      <description>AI power concentration and the Piketty thesis from Noah Smith, Altman home attacks, prediction markets hitting record volume with CFTC moves and the California governor race collapse, Gallup 50% AI adoption milestone, NBA playoff race, and entertainment industry updates.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-13-01/killen-time-2026-04-13.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-13-01/killen-time-2026-04-13.mp3" length="71742395" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Apr 2026 11:52:03 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-13-01/artwork-2026-04-13.jpg"/>
-      <itunes:duration>1:13:19</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-14</title>
       <description>Anthropic vs OpenAI on the Illinois AI liability shield, Narasimhan joins the Anthropic board ahead of a potential IPO, Treasury wants Mythos access, Zvi on Claude Mythos capabilities, Gouker maps the prediction market startup ecosystem, Polymarket audits its Builders Program, and Robin Hanson asks why we ban sports bets.</description>
@@ -1017,6 +1007,15 @@
       <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-03/killen-time-2026-06-22.mp3" length="5539244" type="audio/mpeg"/>
       <pubDate>Tue, 23 Jun 2026 05:02:37 +0000</pubDate>
       <itunes:duration>5:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hermes Dashboard UI Research</title>
+      <description>Killen Time Update for 2026-06-22, episode 4.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-04/killen-time-2026-06-22.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-04/killen-time-2026-06-22.mp3" length="89900" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2026 05:48:32 +0000</pubDate>
+      <itunes:duration>0:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
