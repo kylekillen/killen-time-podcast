@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 05:01:36 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-11</title>
-      <description>Mythos cybersecurity deep dive: Zvi breaks down the staggering vulnerability findings, Project Glasswing, and what it means for defenders. Plus Anthropic enterprise data from Ramp, OpenAI legal and talent troubles, and Manifold prediction markets on AI economics.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-11-01/killen-time-2026-04-11.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-11-01/killen-time-2026-04-11.mp3" length="67498551" type="audio/mpeg"/>
-      <pubDate>Sat, 11 Apr 2026 11:49:19 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-11-01/artwork-2026-04-11.jpg"/>
-      <itunes:duration>1:08:57</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-12</title>
       <description>Self-improving open-source AI from MiniMax, Claude Code dominating HumanX, the Jevons Paradox in AI compute, Nate Silver on synthetic polling dangers, SpaceX two-trillion-dollar IPO and capital competition, NBA playoff preview, Coachella and SNL highlights, and the structural gold thesis from Gavekal.</description>
@@ -1019,6 +1009,15 @@
       <pubDate>Mon, 22 Jun 2026 13:56:01 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-01/artwork-2026-06-22.jpg"/>
       <itunes:duration>49:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>E-016 mSOL Harvest — Readiness Report</title>
+      <description>Machine-narrated (Brooke/Kokoro) readiness report for the E-016 mSOL epoch-cycle harvest bot. Verdict GREEN, ready to arm. ~12bps/cycle market-neutral, hedged SOL-beta 0.003. Dry-run build, no money moved.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-02/killen-time-2026-06-22.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-02/killen-time-2026-06-22.mp3" length="6073772" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2026 05:00:53 +0000</pubDate>
+      <itunes:duration>6:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
