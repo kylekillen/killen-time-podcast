@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 10:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:17:43 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,15 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-04-16</title>
-      <description>Today's Killen Time Update covering the biggest stories in AI, prediction markets, NBA, entertainment, and economics.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-16-01/killen-time-2026-04-16.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-04-16-01/killen-time-2026-04-16.mp3" length="54647190" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Apr 2026 15:20:04 +0000</pubDate>
-      <itunes:duration>56:55</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-04-17</title>
       <description>Today's Killen Time Update.</description>
@@ -1017,6 +1008,16 @@
       <pubDate>Wed, 24 Jun 2026 10:36:00 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-24-01/artwork-2026-06-24.jpg"/>
       <itunes:duration>54:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>HOT Provider Course — Traffic-Growth Plan (CME now live)</title>
+      <description>Amy-Brand Lead, 2026-06-24. Full plan for driving enrollments to Dr. Amy Killen's accredited HOT Provider CME course: status, the strategic insight, 16 ranked executables, sequencing, and the decisions needed. Brooke/Kokoro voice.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-24-02/killen-time-2026-06-24.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-24-02/killen-time-2026-06-24.mp3" length="12206636" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Jun 2026 16:17:00 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-24-02/artwork.jpg"/>
+      <itunes:duration>12:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
