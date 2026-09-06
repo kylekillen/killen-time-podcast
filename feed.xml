@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:48:12 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-05-15</title>
-      <description>Today's Killen Time Update. After a three-day automation outage, this episode covers the Ben Thompson Inference Shift piece, Scott Alexander on AI sigmoid skeptics, PredMTrader's Trump-Xi bilateral positions, NBA playoff Game Sixes, Cannes, and macro updates from Martin Wolf and Tyler Cowen.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-05-15-01/killen-time-2026-05-15.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-05-15-01/killen-time-2026-05-15.mp3" length="67890910" type="audio/mpeg"/>
-      <pubDate>Fri, 15 May 2026 15:23:49 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-05-15-01/artwork-2026-05-15.jpg"/>
-      <itunes:duration>1:09:20</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-05-18</title>
       <description>Today's Killen Time Update.</description>
@@ -1017,6 +1007,16 @@
       <pubDate>Sat, 05 Sep 2026 11:06:36 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-05-01/artwork-2026-09-05.jpg"/>
       <itunes:duration>1:14:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-09-06</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-06-01/killen-time-2026-09-06.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-06-01/killen-time-2026-09-06.mp3" length="66774271" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Sep 2026 11:47:30 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-06-01/artwork-2026-09-06.jpg"/>
+      <itunes:duration>1:08:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
