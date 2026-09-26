@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 18:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:31:16 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-06-04</title>
-      <description>Today's Killen Time Update.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-04-01/killen-time-2026-06-04.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-04-01/killen-time-2026-06-04.mp3" length="64451835" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Jun 2026 10:40:29 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-04-01/artwork-2026-06-04.jpg"/>
-      <itunes:duration>1:05:50</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-06-05</title>
       <description>Today's Killen Time Update.</description>
@@ -1017,6 +1007,16 @@
       <pubDate>Fri, 25 Sep 2026 18:50:46 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-25-01/artwork-2026-09-25.jpg"/>
       <itunes:duration>36:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-09-26</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-26-01/killen-time-2026-09-26.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-26-01/killen-time-2026-09-26.mp3" length="48623829" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2026 10:30:34 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-09-26-01/artwork-2026-09-26.jpg"/>
+      <itunes:duration>49:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
