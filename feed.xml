@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:20:18 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>HERO by Thomas Perry — Audiobook (Part 4 of 5)</title>
-      <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of HERO by Thomas Perry — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-04/killen-time-2026-06-16.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-04/killen-time-2026-06-16.mp3" length="86412332" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Jun 2026 01:39:06 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-16-04/artwork.jpg"/>
-      <itunes:duration>1:30:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>HERO by Thomas Perry — Audiobook (Part 5 of 5)</title>
       <description>Personal text-to-speech audiobook (Brooke / Kokoro voice) of HERO by Thomas Perry — Captivate review material rendered for Kyle's road trip. Personal use only; will be removed after the drive.</description>
@@ -1017,6 +1007,16 @@
       <pubDate>Sat, 17 Oct 2026 10:29:10 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-10-17-01/artwork-2026-10-17.jpg"/>
       <itunes:duration>1:10:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-10-18</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-10-18-01/killen-time-2026-10-18.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-10-18-01/killen-time-2026-10-18.mp3" length="55775973" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 10:19:36 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-10-18-01/artwork-2026-10-18.jpg"/>
+      <itunes:duration>56:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
