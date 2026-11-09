@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:44:43 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — 2026-06-19</title>
-      <description>Today's Killen Time Update.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-01/killen-time-2026-06-19.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-01/killen-time-2026-06-19.mp3" length="64018724" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Jun 2026 11:36:35 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-01/artwork-2026-06-19.jpg"/>
-      <itunes:duration>1:05:20</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Fleet Brief — Tiered Failover Proposal (action needed)</title>
       <description>Fleet Optimizer proposal: a self-hosted gateway with per-workload key tiering so the podcast can never drain the trading pool. Money-adjacent — needs Kyle's sign-off. Personal/internal brief, Brooke voice.</description>
@@ -1017,6 +1007,16 @@
       <pubDate>Sun, 08 Nov 2026 11:41:42 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-08-01/artwork-2026-11-08.jpg"/>
       <itunes:duration>40:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-11-09</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-09-01/killen-time-2026-11-09.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-09-01/killen-time-2026-11-09.mp3" length="37850488" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2026 11:43:59 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-09-01/artwork-2026-11-09.jpg"/>
+      <itunes:duration>37:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
