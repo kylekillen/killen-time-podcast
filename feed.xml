@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 11:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:43:14 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,16 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Killen Time — All-Gemini Edition (zero Claude)</title>
-      <description>Whole show on Gemini, no Claude anywhere: fresh ingest (Python+Whisper), build-pitch via Gemini Google-Search grounding, written by Gemini Flash, rendered locally. Free/$0 — fully decoupled from the Claude pool. A/B vs the Claude shows.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-05/killen-time-2026-06-19.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-05/killen-time-2026-06-19.mp3" length="44244630" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Jun 2026 00:04:02 +0000</pubDate>
-      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-19-05/artwork.jpg"/>
-      <itunes:duration>46:05</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>Killen Time — 2026-06-20</title>
       <description>Today's Killen Time Update.</description>
@@ -1017,6 +1007,16 @@
       <pubDate>Fri, 13 Nov 2026 11:35:31 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-13-01/artwork-2026-11-13.jpg"/>
       <itunes:duration>55:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-11-14</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-14-01/killen-time-2026-11-14.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-14-01/killen-time-2026-11-14.mp3" length="39114612" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Nov 2026 11:42:33 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-14-01/artwork-2026-11-14.jpg"/>
+      <itunes:duration>39:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
