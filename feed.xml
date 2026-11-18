@@ -12,7 +12,7 @@
       <link>https://kylekillen.github.io/killen-time-podcast</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:01:57 +0000</lastBuildDate>
     <itunes:author>Kyle Killen</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -23,15 +23,6 @@
       <itunes:name>Kyle Killen</itunes:name>
       <itunes:email>kyle.killen@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>E-016 mSOL Harvest — Readiness Report</title>
-      <description>Machine-narrated (Brooke/Kokoro) readiness report for the E-016 mSOL epoch-cycle harvest bot. Verdict GREEN, ready to arm. ~12bps/cycle market-neutral, hedged SOL-beta 0.003. Dry-run build, no money moved.</description>
-      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-02/killen-time-2026-06-22.mp3</guid>
-      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-06-22-02/killen-time-2026-06-22.mp3" length="6073772" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Jun 2026 05:00:53 +0000</pubDate>
-      <itunes:duration>6:19</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <title>E-016 mSOL Harvest — Red-Team Review</title>
       <description>Machine-narrated (Brooke/Kokoro) red-team review of the E-016 mSOL harvest bot. 3 independent passes + verifier: no sign error, 5 HIGH findings fixed-with-test, live-money boundary clean. Dry-run build, no money moved.</description>
@@ -1017,6 +1008,16 @@
       <pubDate>Tue, 17 Nov 2026 11:52:20 +0000</pubDate>
       <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-17-01/artwork-2026-11-17.jpg"/>
       <itunes:duration>57:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Killen Time — 2026-11-18</title>
+      <description>Today's Killen Time Update.</description>
+      <guid isPermaLink="false">https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-18-01/killen-time-2026-11-18.mp3</guid>
+      <enclosure url="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-18-01/killen-time-2026-11-18.mp3" length="41237543" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Nov 2026 12:01:12 +0000</pubDate>
+      <itunes:image href="https://github.com/kylekillen/killen-time-podcast/releases/download/ep-2026-11-18-01/artwork-2026-11-18.jpg"/>
+      <itunes:duration>41:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
